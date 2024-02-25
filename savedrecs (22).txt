@@ -1,0 +1,1691 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Dokas, I
+   Oikonomou, G
+   Papadamou, S
+   Spyromitros, E
+AF Dokas, Ioannis
+   Oikonomou, Georgios
+   Papadamou, Stephanos
+   Spyromitros, Eleftherios
+TI Central Bank Credibility's Effect on Stock Exchange Returns' Volatility:
+   Evidence from OECD Countries
+SO ECONOMIES
+LA English
+DT Article
+DE central bank credibility; stock exchange volatility; financial data;
+   E52; E58; G12; M49
+ID UNIT-ROOT TESTS; MONETARY-POLICY; TRANSPARENCY; INDEPENDENCE; INFLATION;
+   DETERMINANTS; EXPECTATIONS; DISCRETION
+AB Central bank characteristics are important determinants of stock market returns and their volatility. While the literature has examined the effects of transparency and independence, no research has been conducted so far on the effect of central bank credibility on stock market returns' volatility. A panel regression using financial and macroeconomic data from 45 OECD member countries over the period of 1998-2022 tested the hypothesis that central bank credibility determines stock exchange returns' volatility. The results indicated that credibility reduces stock returns' volatility, remaining robust and statistically significant across models. Economic growth also decreases stock market volatility, while money-market interest rates' volatility, the stock market's turnover ratio, and economic/financial crises act as amplifying factors of stock market volatility. All variables, except for economic growth, exhibit unidirectional causality, leading to changes in stock market volatility.
+C1 [Dokas, Ioannis; Oikonomou, Georgios; Spyromitros, Eleftherios] Democritus Univ Thrace, Dept Econ, Univ Campus, Komotini 69100, Greece.
+   [Papadamou, Stephanos] Univ Thessaly, Dept Econ, 28 Oktovriou 78, Volos 38333, Greece.
+C3 University of Thessaly
+RP Spyromitros, E (corresponding author), Democritus Univ Thrace, Dept Econ, Univ Campus, Komotini 69100, Greece.
+EM intokas@econ.duth.gr; geoikono@econ.duth.gr; stpapada@uth.gr;
+   espyromi@econ.duth.gr
+OI Dokas, Ioannis/0000-0002-2828-0935; PAPADAMOU,
+   STEPHANOS/0000-0002-7700-1912
+FU The authors are very grateful to two anonymous reviewers and the
+   journal's editorial team for providing constructive comments to enhance
+   the quality of this paper.
+FX The authors are very grateful to two anonymous reviewers and the
+   journal's editorial team for providing constructive comments to enhance
+   the quality of this paper.
+CR BARRO RJ, 1983, J POLIT ECON, V91, P589, DOI 10.1086/261167
+   Berger W, 2013, EUR J POLIT ECON, V31, P109, DOI 10.1016/j.ejpoleco.2013.04.004
+   Bernanke BS, 2005, J FINANC, V60, P1221, DOI 10.1111/j.1540-6261.2005.00760.x
+   Bicchal Motilal., 2022, Studies in International Economics and Finance, P73
+   Blinder AS, 2000, AM ECON REV, V90, P1421, DOI 10.1257/aer.90.5.1421
+   Bomfim AN, 2003, J BANK FINANC, V27, P133, DOI 10.1016/S0378-4266(01)00211-4
+   Bomfim AN, 2000, J MONEY CREDIT BANK, V32, P707, DOI 10.2307/2601179
+   Bordo MD, 2017, OPEN ECON REV, V28, P19, DOI 10.1007/s11079-016-9411-2
+   Bordo Michael D., 2015, Central Bank Credibility: An Historical and Quantitative Exploration, pw20824
+   Bordo Michael D., 2014, Central Bank Credibility, Reputation and Inflation Targeting in Historical Perspective, pw20693
+   Bredin D, 2007, J BUS FINAN ACCOUNT, V34, P872, DOI 10.1111/j.1468-5957.2006.02001.x
+   Breitung J, 2005, STAT NEERL, V59, P414, DOI 10.1111/j.1467-9574.2005.00299.x
+   Breitung J, 2000, ADV ECONOMETRICS, V15, P161
+   Cecchetti S. G., 2002, FEDERAL RESERVE BANK, V84
+   Choi I, 2001, J INT MONEY FINANC, V20, P249, DOI 10.1016/S0261-5606(00)00048-6
+   Chuliá H, 2010, J BANK FINANC, V34, P834, DOI 10.1016/j.jbankfin.2009.09.012
+   Clarke C, 2016, BRIT J POLIT INT REL, V18, P49, DOI 10.1111/1467-856X.12062
+   CUKIERMAN A, 1986, ECONOMETRICA, V54, P1099, DOI 10.2307/1912324
+   CUKIERMAN A, 1992, WORLD BANK ECON REV, V6, P353, DOI 10.1093/wber/6.3.353
+   De Haan J, 2004, J COMMON MARK STUD, V42, P775
+   de Mendonça HF, 2009, ECON MODEL, V26, P1228, DOI 10.1016/j.econmod.2009.05.010
+   de Mendonça HF, 2018, J POLICY MODEL, V40, P1165, DOI 10.1016/j.jpolmod.2018.06.001
+   Dumitrescu EI, 2012, ECON MODEL, V29, P1450, DOI 10.1016/j.econmod.2012.02.014
+   Eggertsson GB, 2003, BROOKINGS PAP ECO AC, P139
+   Ehrmann M, 2004, J MONEY CREDIT BANK, V36, P719, DOI 10.1353/mcb.2004.0063
+   Eijffinger S.C.W., 2006, European Journal of Political Economy, V22, P1, DOI [https://doi.org/10.1016/j.ejpoleco.2005.09.013, DOI 10.1016/J.EJPOLECO.2005.09.013]
+   Engle RF, 2008, REV FINANC STUD, V21, P1187, DOI 10.1093/rfs/hhn004
+   Esqueda OA, 2012, J INT FINANC MARK I, V22, P87, DOI 10.1016/j.intfin.2011.07.006
+   Faust J, 2001, INT ECON REV, V42, P369, DOI 10.1111/1468-2354.00114
+   Förch T, 2012, ECON LETT, V115, P77, DOI 10.1016/j.econlet.2011.11.030
+   FREES EW, 1995, J ECONOMETRICS, V69, P393, DOI 10.1016/0304-4076(94)01658-M
+   Greene W. H., 2008, The Measurement of Productive Efficiency and Productivity Growth, P92, DOI DOI 10.1093/ACPROF:OSO/9780195183528.003.0002
+   Harris RDF, 1999, J ECONOMETRICS, V91, P201, DOI 10.1016/S0304-4076(98)00076-1
+   Hashem Pesaran M., 2004, General Diagnostic Tests for Cross Section Dependence in Panels
+   HAUSMAN JA, 1978, ECONOMETRICA, V46, P1251, DOI 10.2307/1913827
+   Herrero Ana G., 2004, Financial Markets in Central and Eastern Europe, P357
+   Horvath R, 2016, J FINANC STABIL, V22, P45, DOI 10.1016/j.jfs.2015.12.003
+   Im KS, 2003, J ECONOMETRICS, V115, P53, DOI 10.1016/S0304-4076(03)00092-7
+   Klomp J, 2009, J FINANC STABIL, V5, P321, DOI 10.1016/j.jfs.2008.10.001
+   Konrad E, 2009, FINANC MARK PORTFOLI, V23, P111, DOI 10.1007/s11408-009-0102-5
+   KYDLAND FE, 1977, J POLIT ECON, V85, P473, DOI 10.1086/260580
+   Lalonde Rene., 2005, Endogenous Central Bank Credibility in a Small Forward-Looking Model of the US Economy. Bank of Canada 2005-16
+   Levieuge G, 2018, REV WORLD ECON, V154, P493, DOI 10.1007/s10290-018-0308-6
+   Levin A, 2002, J ECONOMETRICS, V108, P1, DOI 10.1016/S0304-4076(01)00098-7
+   Lunde A, 2009, FINANC MARK PORTFOLI, V23, P383, DOI 10.1007/s11408-009-0114-1
+   Lyziak Tomasz., 2007, European Journal of Political Economy, V23, P67, DOI [10.1016/j.ejpoleco.2006.05.004, DOI 10.1016/J.EJPOLECO.2006.05.004]
+   Mackiewicz-Lyziak J, 2016, ACTA OECON, V66, P125, DOI 10.1556/032.2016.66.1.6
+   Martin Cihak, 2007, Central Banks and Financial Stability: A Survey
+   Mishkin Frederic., 2004, Can Central Bank Transparency Go Too Far?
+   Mun Kyung-Chun., 2007, Journal of International Financial Markets, Institutions and Money, V17, P25, DOI [10.1016/j.intfin.2005.08.006, DOI 10.1016/J.INTFIN.2005.08.006]
+   Neuenkirch M, 2014, J INT MONEY FINANC, V41, P30, DOI 10.1016/j.jimonfin.2013.10.006
+   Neuenkirch M, 2013, ECON SYST, V37, P598, DOI 10.1016/j.ecosys.2013.07.003
+   Papadamou S, 2017, RES INT BUS FINANC, V42, P855, DOI 10.1016/j.ribaf.2017.07.021
+   Papadamou S, 2014, EASTERN EUR ECON, V52, P5, DOI 10.2753/EEE0012-8775520401
+   Papadamou S, 2014, J INT FINANC MARK I, V31, P362, DOI 10.1016/j.intfin.2014.05.002
+   Pesaran MH, 2007, J APPL ECONOMET, V22, P265, DOI 10.1002/jae.951
+   Reeves R., 2007, EUROPEAN J POLITICAL, V23, P207, DOI DOI 10.1016/J.EJPOLECO.2006.09.018
+   ROGOFF K, 1985, Q J ECON, V100, P1169, DOI 10.2307/1885679
+   SCHWERT GW, 1989, J FINANC, V44, P1115, DOI 10.2307/2328636
+   Svensson Lars E., 1993, The Simplest Test of Inflation Target Credibility, P4604
+   Svensson LEO, 1999, J MONETARY ECON, V43, P607, DOI 10.1016/S0304-3932(99)00007-0
+   TABELLINI G, 1987, ECON INQ, V25, P185, DOI 10.1111/j.1465-7295.1987.tb00734.x
+   TABELLINI G, 1985, GIORN ECON ANN ECON, V44, P389
+   Umutlu M, 2010, J BANK FINANC, V34, P509, DOI 10.1016/j.jbankfin.2009.08.010
+   Vithessonthi C, 2012, J INT FINANC MARK I, V22, P487, DOI 10.1016/j.intfin.2012.02.003
+   Wooldridge JM, 2010, ECONOMETRIC ANALYSIS OF CROSS SECTION AND PANEL DATA, 2ND EDITION, P3
+   Yoshino Naoyuki., 2022, Studies in International Economics and Finance
+NR 67
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2227-7099
+J9 ECONOMIES
+JI Economies
+PD OCT
+PY 2023
+VL 11
+IS 10
+AR 257
+DI 10.3390/economies11100257
+PG 15
+WC Economics
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA W5UU3
+UT WOS:001092284100001
+OA gold
+DA 2024-02-25
+ER
+
+PT J
+AU de Mendonça, HF
+   Tiberto, BP
+AF de Mendonca, Helder Ferreira
+   Tiberto, Bruno Pires
+TI Effect of credibility and exchange rate pass-through on inflation: An
+   assessment for developing countries
+SO INTERNATIONAL REVIEW OF ECONOMICS & FINANCE
+LA English
+DT Article
+DE Pass-through; Central bank credibility; Inflation; Inflation volatility;
+   Developing countries
+ID MONETARY-POLICY; PANEL-DATA; DISINFLATION; TRANSPARENCY; ENVIRONMENT;
+   DIFFERENCE; VOLATILITY; RISK; GMM
+AB This study examines, through a panel data analysis for 114 developing countries, the exchange rate pass-through on inflation and on its volatility and, in particular, how the central bank credibility affects this relationship. Based on the idea that credibility can be measured by the difference between the policymaker's plans and the public's beliefs about those plans, several indicators were built. The findings denote that central bank credibility is able to more than counteract the bad effects on inflation caused by the exchange rate pass-through and thus contribute to greater price stability in developing economies. In brief, for the case of monetary authorities committed to anchor inflation expectations there is a gain of credibility that works as a tool to eliminate the pass-through effect on inflation.
+C1 [de Mendonca, Helder Ferreira] Fluminense Fed Univ, Dept Econ, Rua Dr Sodre 59, BR-26900000 Rio De Janeiro, Brazil.
+   [Tiberto, Bruno Pires] Cent Bank Brazil, Brasilia, DF, Brazil.
+   [de Mendonca, Helder Ferreira] CNPq, Natl Council Sci & Technol Dev, Brasilia, DF, Brazil.
+C3 Central Bank of Brazil
+RP de Mendonça, HF (corresponding author), Fluminense Fed UTablenivers, Dept Econ, Rua Dr Sodre 59, BR-26900000 Rio De Janeiro, Brazil.
+EM helderfm@hotmail.com
+RI de Mendonca, Helder Ferreira/A-7415-2009; Tiberto, Bruno
+   Pires/O-1886-2019
+OI de Mendonca, Helder Ferreira/0000-0003-1465-1755; Pires Tiberto,
+   Bruno/0000-0001-8176-8043
+CR Aleem A, 2014, ECON MODEL, V43, P21, DOI 10.1016/j.econmod.2014.06.020
+   An L, 2012, OPEN ECON REV, V23, P359, DOI 10.1007/s11079-010-9195-8
+   ANDERSSON K, 1995, TARGETING INFLATION, P207
+   [Anonymous], 475 CENTR BANK CHIL
+   ARELLANO M, 1991, REV ECON STUD, V58, P277, DOI 10.2307/2297968
+   ARELLANO M, 1995, J ECONOMETRICS, V68, P29, DOI 10.1016/0304-4076(94)01642-D
+   Arellano M., 2003, Panel data econometrics, DOI 10.1093/0199245282.001.0001
+   Baley I., 2015, MENU COSTS UNCERTAIN
+   Blinder AS, 2000, AM ECON REV, V90, P1421, DOI 10.1257/aer.90.5.1421
+   Blundell R, 1998, J ECONOMETRICS, V87, P115, DOI 10.1016/S0304-4076(98)00009-8
+   Bomfim AN, 2000, J MONEY CREDIT BANK, V32, P707, DOI 10.2307/2601179
+   Burstein A, 2014, HBK ECON, P391, DOI 10.1016/B978-0-444-54314-1.00007-0
+   Calvo GA, 2002, Q J ECON, V117, P379, DOI 10.1162/003355302753650274
+   Cavoli T, 2008, ECON MODEL, V25, P1011, DOI 10.1016/j.econmod.2008.01.006
+   Cecchetti S., 2002, MONETARY POLICY RULE, P247
+   Cecchetti S. G., 2002, FEDERAL RESERVE BANK, V84
+   Chinn MenzieD., 2007, J COMP POLITY ANAL, V10, P309, DOI [10.1080/13876980802231123, DOI 10.1080/13876980802231123]
+   Choudhri EU, 2006, J INT MONEY FINANC, V25, P614, DOI 10.1016/j.jimonfin.2005.11.009
+   Chow HK, 2014, J ASIAN ECON, V30, P63, DOI 10.1016/j.asieco.2013.09.001
+   CUKIERMAN A, 1986, ECONOMETRICA, V54, P1099, DOI 10.2307/1912324
+   de Mendonça HF, 2009, ECON MODEL, V26, P1228, DOI 10.1016/j.econmod.2009.05.010
+   de Mendonça H, 2007, APPL ECON, V39, P2599, DOI 10.1080/00036840600707324
+   de Mendonça HF, 2016, ECON BULL, V36, P2333
+   De Mendonça HF, 2015, OPEN ECON REV, V26, P787, DOI 10.1007/s11079-014-9339-3
+   de Mendonça HF, 2015, N AM J ECON FINANC, V32, P12, DOI 10.1016/j.najef.2015.01.002
+   de Mendonça HF, 2012, J DEV ECON, V98, P178, DOI 10.1016/j.jdeveco.2011.06.011
+   Dennis R, 2014, J ECON DYN CONTROL, V44, P218, DOI 10.1016/j.jedc.2014.05.004
+   Devereux MB, 2002, J MONETARY ECON, V49, P913, DOI 10.1016/S0304-3932(02)00130-7
+   Dieters MAF, 2010, THESIS
+   Dincer NN, 2014, INT J CENT BANK, V10, P189
+   Dogan M. K., 2014, EURASIAN J BUSINESS, V7, P71
+   Faust J, 2001, INT ECON REV, V42, P369, DOI 10.1111/1468-2354.00114
+   Fernandes CM, 2013, CREDIBILITY MONETARY
+   Gagnon JE, 2004, INT J FINANC ECON, V9, P315, DOI 10.1002/ijfe.253
+   Goldfajn I., 2001, UN C TRAD DEV
+   Goldfajn I., 2000, WORKING PAPER SERIES, V5
+   Goodfriend M, 2005, J MONETARY ECON, V52, P981, DOI 10.1016/j.jmoneco.2005.07.001
+   Gruben WC, 2002, ECON LETT, V77, P221, DOI 10.1016/S0165-1765(02)00137-4
+   Hayakawa K., 2012, ASYMPTOTIC PRO UNPUB
+   Ilzetzki E., 2008, WORKING PAPER
+   IRELAND PN, 1995, J ECON DYN CONTROL, V19, P1429, DOI 10.1016/0165-1889(94)00836-7
+   Kara H, 2008, EMERG MARK FINANC TR, V44, P52, DOI 10.2753/REE1540-496X440604
+   Khemiri R, 2012, EC DISCUSSION PAPERS, V2012-39
+   King M., 1995, CREDIBILITY MONETARY
+   Levieuge G., 2015, NATL BANK POLAND WOR
+   Lin S, 2007, J MONETARY ECON, V54, P2521, DOI 10.1016/j.jmoneco.2007.06.017
+   Mishkin FS, 2001, J DEV ECON, V66, P415, DOI 10.1016/S0304-3878(01)00169-9
+   Montes GC, 2013, ECON MODEL, V30, P670, DOI 10.1016/j.econmod.2012.09.035
+   Montes GC, 2012, ECON MODEL, V29, P1666, DOI 10.1016/j.econmod.2012.05.027
+   Nogueira RP, 2011, J APPL ECON, V14, P167, DOI 10.1016/S1514-0326(11)60010-X
+   Reinhart CM, 2004, Q J ECON, V119, P1, DOI 10.1162/003355304772839515
+   Rogoff KS, 2003, MONETARY POLICY AND UNCERTAINTY: ADAPTING TO A CHANGING ECONOMY, P77
+   ROMER D, 1993, Q J ECON, V108, P869, DOI 10.2307/2118453
+   Roodman D, 2009, STATA J, V9, P86, DOI 10.1177/1536867X0900900106
+   Salle I., 2013, 20132014 GRETHA U BO
+   Schaling E, 2003, 20 BANK FINL
+   Schmidt- Hebbel K., 2002, N AM J ECON FINANC, V13, P125
+   Shi K, 2015, J INT MONEY FINANC, V51, P26, DOI 10.1016/j.jimonfin.2014.09.009
+   Staiger D, 1997, ECONOMETRICA, V65, P557, DOI 10.2307/2171753
+   Svensson L.E.O., 2000, How Should Monetary Policy Be Conducted in an Era of Price Stability?
+   Taylor JB, 2000, EUR ECON REV, V44, P1389, DOI 10.1016/S0014-2921(00)00037-4
+   Tesfaselassie MF, 2010, J ECON DYN CONTROL, V34, P2568, DOI 10.1016/j.jedc.2010.07.005
+   Tytell I., 2004, 0484 INT MON FUND
+   Vavra J, 2014, Q J ECON, V129, P215, DOI 10.1093/qje/qjt027
+   Vega M., 2005, International Journal of Central Banking, V1, P153
+   Werlang SR, 2000, WORKING PAPER SERIES, V1
+   Windmeijer F, 2005, J ECONOMETRICS, V126, P25, DOI 10.1016/j.jeconom.2004.02.005
+   Wooldridge Jeffrey. M., 2002, Econometric Analysis of Cross Section and Panel Data
+   Wynne M. A., 2007, Federal Reserve Bank of Dallas Staff Paper No.2
+NR 69
+TC 21
+Z9 23
+U1 0
+U2 17
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 1059-0560
+EI 1873-8036
+J9 INT REV ECON FINANC
+JI Int. Rev. Econ. Financ.
+PD JUL
+PY 2017
+VL 50
+BP 196
+EP 244
+DI 10.1016/j.iref.2017.03.027
+PG 49
+WC Business, Finance; Economics
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA EX3IK
+UT WOS:000403125600013
+DA 2024-02-25
+ER
+
+PT J
+AU Kenourgios, D
+   Papadamou, S
+   Dimitriou, D
+AF Kenourgios, Dimitris
+   Papadamou, Stephanos
+   Dimitriou, Dimitrios
+TI On quantitative easing and high frequency exchange rate dynamics
+SO RESEARCH IN INTERNATIONAL BUSINESS AND FINANCE
+LA English
+DT Article
+DE Quantitative easing; Exchange rates; Intraday; Volatility; Dynamic
+   conditional correlationa
+ID FINANCIAL MARKET IMPACT; VOLATILITY SPILLOVER; POUND; NEWS; EURO
+AB This paper examines the effects of quantitative easing (QE) announcements by the European Central Bank, the Bank of Japan and the Bank of England on exchange rate dynamics. Using intraday data of three major exchange rates (EUR/USD, GBP/USD, JPY/USD), we apply a univariate APARCH(1,1) model and include QE dummies to empirically investigate how exchange rates are affected in mean and volatility. The empirical results indicate: (i) a direct negative impact on GBP and JPY and no effect of their volatility around the QE announcements of the corresponding central banks, (ii) a delayed devaluation of EUR and an increase of its volatility before and after the ECB's announcements. Furthermore, the behavior of dynamic conditional correlation among currencies is investigated across the QE announcements. We find a decline in the conditional correlation between EUR and GBP around the announcements by the BoE. These findings highlight the differences on the credibility and effectiveness of the monetary easing strategies and provide important implications from the investors and policy makers perspective. (C) 2015 Elsevier B.V. All rights reserved.
+C1 [Kenourgios, Dimitris; Dimitriou, Dimitrios] Univ Athens, Fac Econ, 1 Sofokleous Str, Athens 10559, Greece.
+   [Papadamou, Stephanos] Univ Thessaly, Dept Econ, Volos, Greece.
+C3 National & Kapodistrian University of Athens; University of Thessaly
+RP Kenourgios, D (corresponding author), Univ Athens, Fac Econ, 1 Sofokleous Str, Athens 10559, Greece.
+EM dkenourg@econ.uoa.gr
+RI Dimitriou, Dimitrios/GYQ-7943-2022; Kenourgios, Dimitris/AAM-5342-2021;
+   Papadamou, Stephanos/I-2580-2019
+OI Kenourgios, Dimitris/0000-0003-2676-2524; Papadamou,
+   Stephanos/0000-0002-7700-1912; Dimitriou, Dimitrios/0000-0002-7974-3581
+FU Faculty of Economics, University of Athens [11105]
+FX The authors acknowledge financial support from the Faculty of Economics,
+   University of Athens through Special Account Research Grant 11105.
+CR [Anonymous], EC J
+   [Anonymous], 2010, FEDERAL RESERVE BANK
+   [Anonymous], IS LTRO QE DISGUISE
+   Berkman P., 2012, 122 IMF
+   BOLLERSLEV T, 1986, J ECONOMETRICS, V31, P307, DOI 10.1016/0304-4076(86)90063-1
+   Breedon F, 2012, OXFORD REV ECON POL, V28, P702, DOI 10.1093/oxrep/grs033
+   Bubák V, 2011, J BANK FINANC, V35, P2829, DOI 10.1016/j.jbankfin.2011.03.012
+   Campos NF, 2008, ECON LETT, V100, P135, DOI 10.1016/j.econlet.2007.12.013
+   Chang Y., 2003, J INT FINANCIAL MARK, V13, P85
+   Conrad C, 2011, J EMPIR FINANC, V18, P147, DOI 10.1016/j.jempfin.2010.05.001
+   Conrad C, 2010, J MONEY CREDIT BANK, V42, P1391, DOI 10.1111/j.1538-4616.2010.00346.x
+   D'Amico S, 2012, ECON J, V122, pF415, DOI 10.1111/j.1468-0297.2012.02550.x
+   Dimitriou D, 2013, J INT FINANC MARK I, V26, P319, DOI 10.1016/j.intfin.2013.07.008
+   Ding Z., 1993, J EMPIR FINANC, V1, P83, DOI [DOI 10.1016/0927-5398(93)90006-D, 10.1016/0927-5398(93)90006-D]
+   Ehrmann M, 2005, J INT MONEY FINANC, V24, P317, DOI 10.1016/j.jimonfin.2004.12.010
+   Engle R, 2002, J BUS ECON STAT, V20, P339, DOI 10.1198/073500102288618487
+   ENGLE RF, 1990, ECONOMETRICA, V58, P525, DOI 10.2307/2938189
+   Faust J, 2007, J MONETARY ECON, V54, P1051, DOI 10.1016/j.jmoneco.2006.05.015
+   Fornari F, 2002, ECON MODEL, V19, P611, DOI 10.1016/S0264-9993(00)00073-0
+   Fratzscher M., 2013, EUROPEAN CENTRAL BAN
+   Glick R, 2012, J INT MONEY FINANC, V31, P2078, DOI 10.1016/j.jimonfin.2012.05.009
+   HOSKING JRM, 1980, J AM STAT ASSOC, V75, P602, DOI 10.2307/2287656
+   Inagaki K, 2007, RES INT BUS FINANC, V21, P161, DOI 10.1016/j.ribaf.2006.03.006
+   Joyce M, 2012, ECON J, V122, pF271, DOI 10.1111/j.1468-0297.2012.02551.x
+   Joyce MAS, 2011, INT J CENT BANK, V7, P113
+   Kapetanios G., 2012, BANK ENGLAND WORKING
+   Kearns J., 2006, Int. J. Central Bank, V2, P157
+   Kitamura Y, 2010, RES INT BUS FINANC, V24, P158, DOI 10.1016/j.ribaf.2009.11.002
+   Krishnamurthy A, 2011, BROOKINGS PAP ECO AC, P215
+   Lam W. Raphael, 2011, 11264 IMF
+   Love R, 2008, J FINANC QUANT ANAL, V43, P467, DOI 10.1017/S0022109000003598
+   McLeod AI., 1983, J. Time Ser. Anal, V4, P269, DOI [10.1111/j.1467-9892.1983.tb00373.x, DOI 10.1111/j.1467-9892.1983.tb00373.x, DOI 10.1111/J.1467-9892.1983.TB00373.X]
+   Neely C., 2012, FEDERAL RESERVE BANK
+   Nikkinen J, 2009, J EMPIR FINANC, V16, P862, DOI 10.1016/j.jempfin.2009.05.002
+   Patton AJ, 2006, INT ECON REV, V47, P527, DOI 10.1111/j.1468-2354.2006.00387.x
+   Pérez-Rodríguez JV, 2006, ATLANTIC ECON J, V34, P367, DOI 10.1007/s11293-006-9042-x
+   Steeley JM, 2015, INT REV FINANC ANAL, V37, P113, DOI 10.1016/j.irfa.2014.11.004
+   Swanson ET, 2011, BROOKINGS PAP ECO AC, P151
+   Ueda K, 2012, JPN ECON REV, V63, P1, DOI 10.1111/j.1468-5876.2011.00547.x
+NR 39
+TC 33
+Z9 35
+U1 0
+U2 8
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0275-5319
+EI 1878-3384
+J9 RES INT BUS FINANC
+JI Res. Int. Bus. Financ.
+PD MAY
+PY 2015
+VL 34
+BP 110
+EP 125
+DI 10.1016/j.ribaf.2015.01.003
+PG 16
+WC Business, Finance
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA V95VJ
+UT WOS:000213223800007
+DA 2024-02-25
+ER
+
+PT J
+AU Armah, MK
+AF Armah, Mark K.
+TI The effect of central bank credibility on economic growth and output
+   volatility in inflation targeting regime
+SO JOURNAL OF SOCIAL AND ECONOMIC DEVELOPMENT
+LA English
+DT Article; Early Access
+DE Economic growth; Exchange rate volatility; Central bank credibility;
+   FDI; Inflation targeting; GMM; Output volatility; E02; E5; F35; F4; F62;
+   O55
+ID MONETARY-POLICY
+AB Against the backdrop that inflation targeting is adopted to achieve a stable macroeconomy (i.e. achieve single-digit inflation rates, lock-in of inflation expectations, and the capacity to deal with demand shocks and financial crises), we analyse the credibility of the Ghanaian and South African Central Banks in achieving target inflation rates. Further, we test the extent to which foreign direct investment, trade openness, and exchange rate volatility moderate the effect of central bank credibility on economic growth and output volatility in Ghana and South Africa. Using the GMM estimation technique, we find robust evidence that weakened central bank credibility is directly inimical to economic growth in both countries but more pronounced in South Africa. Further, the evidence suggests that although missing inflation target triggers output volatility in both countries, the effect is remarkable in the case of South Africa. Additionally, the study reveals that while trade openness and FDI nullify the harmful effect of missed inflation target on economic growth in South Africa, that effect proves elusive in the case of Ghana. We provide recommendations in the light of the weak economic prospects and the projected rise in financial globalisation of both countries following the implementation of the African Continental Free Trade Area.
+C1 [Armah, Mark K.] Univ Cape Coast, Sch Econ, Dept Data Sci & Econ Policy, Cape Coast, Ghana.
+C3 University of Cape Coast
+RP Armah, MK (corresponding author), Univ Cape Coast, Sch Econ, Dept Data Sci & Econ Policy, Cape Coast, Ghana.
+EM marmah@ucc.edu.gh
+OI Armah, Mark/0000-0001-7210-4413
+CR Abo-Zaid S, 2012, J POLICY MODEL, V34, P621, DOI 10.1016/j.jpolmod.2011.08.004
+   Alagidede P, 2017, J AFR BUS, V18, P169, DOI 10.1080/15228916.2017.1247330
+   ARELLANO M, 1995, J ECONOMETRICS, V68, P29, DOI 10.1016/0304-4076(94)01642-D
+   Aron J, 2007, J AFR ECON, V16, P705, DOI 10.1093/jae/ejm013
+   Ayres K, 2014, J POLICY MODEL, V36, P373, DOI 10.1016/j.jpolmod.2012.12.008
+   Bank of Ghana, 2014, Bank of Ghana Annual Report
+   Bank of Ghana, 2022, Bank of Ghana Monetary Policy Report
+   Barbosa NH, 2008, INT REV APPL ECON, V22, P187, DOI 10.1080/02692170701880684
+   Batini N, 2007, Monetary policy under inflation targeting, P1
+   Bawumia M, 2010, Monetary policy and financial sector reform in Africa: Ghana's experience
+   Bawumia M, 2008, Bank of Ghana Working Paper7
+   Bernanke BenS., 1999, INFLATION TARGETING
+   Bicchal M, 2022, ECON ANAL POLICY, V76, P73, DOI 10.1016/j.eap.2022.07.006
+   Blinder AS, 2000, AM ECON REV, V90, P1421, DOI 10.1257/aer.90.5.1421
+   Boamah MI, 2009, The monetary policy transmission mechanism and inflation control in Ghana
+   Bordo M, 2014, Natl Bureau Econ Res
+   Brito RD, 2010, J DEV ECON, V91, P198, DOI 10.1016/j.jdeveco.2009.09.010
+   Carriere-Swallow MY, 2016, Monetary policy credibility and exchange rate pass-through
+   Coric B, 2013, INT REV ECON FINANC, V25, P260, DOI 10.1016/j.iref.2012.07.011
+   de Mendonça H, 2007, APPL ECON, V39, P2599, DOI 10.1080/00036840600707324
+   Demertzis M, 2012, BE J MACROECON, V12, DOI 10.1515/1935-1690.2442
+   Federico P, 2013, The effect of capital flows composition on output volatility
+   Gonçalves CES, 2008, J DEV ECON, V85, P312, DOI 10.1016/j.jdeveco.2006.07.002
+   Haddad M, 2013, CAN J ECON, V46, P765, DOI 10.1111/caje.12031
+   Hale G., 2015, FRBSF Econ Lett, V2015, P14
+   IMF, 2020, Regional economic outlook: sub-saharan africa-a difficult road to recovery (October)
+   Kabundi A, 2019, S AFR J ECON, V87, P464, DOI 10.1111/saje.12238
+   Kabundi A, 2019, ECON MODEL, V79, P173, DOI 10.1016/j.econmod.2018.10.010
+   Klobodu EKM, 2016, J AFR BUS, V17, P291, DOI 10.1080/15228916.2016.1169784
+   Kupfer A, 2015, APPL ECON LETT, V22, P343, DOI 10.1080/13504851.2014.943876
+   Levieuge G, 2018, REV WORLD ECON, V154, P493, DOI 10.1007/s10290-018-0308-6
+   Libânio Gilberto, 2010, Brazil. J. Polit. Econ., V30, P73
+   Lima GT, 2008, J POST KEYNESIAN EC, V30, P435, DOI 10.2753/PKE0160-3477300307
+   Lin S, 2009, J DEV ECON, V89, P118, DOI 10.1016/j.jdeveco.2008.04.006
+   Markandya A., 2011, The Journal of Developing Areas, V44, P41, DOI [10.1353/jda.0.0105, DOI 10.1353/JDA.0.0105]
+   McKinnon R., 1973, Money and Capital in Economic Development
+   Mishkin F.S., 2007, EC MONEY BANKING FIN
+   Mishkin FS, 1999, J ECON PERSPECT, V13, P3, DOI 10.1257/jep.13.4.3
+   Mishkin FS, 2007, National Bureau of Economic Research
+   Montes GC, 2013, ECON MODEL, V30, P670, DOI 10.1016/j.econmod.2012.09.035
+   Mpofu TR, 2021, WORLD ECON, V44, P1380, DOI 10.1111/twec.13013
+   Mwinlaaru PY, 2017, MPRA Working Paper
+   Ndikumana L, 2019, RESOUR POLICY, V63, DOI 10.1016/j.resourpol.2019.101427
+   Neumann MJM., 2002, Louis Rev, V84, P127
+   Ofori I. K., 2021, Foreign direct investment, governance and inclusive growth in sub-Saharan Africa (No. 21/038), DOI 10.2139/ssrn.3861251
+   Ofori IK, 2023, ENERG ECON, V117, DOI 10.1016/j.eneco.2022.106414
+   Ofori IK, 2018, COGENT ECON FINANC, V6, DOI 10.1080/23322039.2018.1537822
+   Peprah JA, 2019, COGENT ECON FINANC, V7, DOI 10.1080/23322039.2019.1625107
+   Rao BB, 2011, ECON MODEL, V28, P701, DOI 10.1016/j.econmod.2010.05.011
+   Ravallion M, 2018, J ECON LIT, V56, P620, DOI 10.1257/jel.20171419
+   Shaw EdwardS., 1973, FINANCIAL DEEPENING
+   Smal M.M., 2001, MONETARY TRANSMISSIO
+   SVENSSON LEO, 1993, EUR ECON REV, V37, P763, DOI 10.1016/0014-2921(93)90087-Q
+   Todani KR, 2006, Exchange rate volatility and exports in South Africa
+   Van der Merwe EJ., 2004, Inflation targeting in South Africa
+   Walsh CE, 2011, ECON REC, V87, P23, DOI 10.1111/j.1475-4932.2011.00735.x
+   WHO, 2012, WORLD MALARIA REPORT 2012, P1
+   World Bank, 2020, Global economic prospects, January 2020: slow growth, policy challenges, DOI [10.1596/978-1-4648-1469-3, DOI 10.1596/978-1-4648-1469-3]
+   World Bank, 2019, GLOB FIN DEV REP 201
+NR 59
+TC 0
+Z9 0
+U1 1
+U2 1
+PU SPRINGER INDIA
+PI NEW DELHI
+PA 7TH FLOOR, VIJAYA BUILDING, 17, BARAKHAMBA ROAD, NEW DELHI, 110 001,
+   INDIA
+SN 0972-5792
+EI 2199-6873
+J9 J SOCIAL EC DEV
+JI J. Social Econ. Dev.
+PD 2023 OCT 24
+PY 2023
+DI 10.1007/s40847-023-00274-9
+EA OCT 2023
+PG 22
+WC Development Studies; Economics
+WE Emerging Sources Citation Index (ESCI)
+SC Development Studies; Business & Economics
+GA U9UM0
+UT WOS:001088184200001
+DA 2024-02-25
+ER
+
+PT J
+AU Bauer, C
+   Herz, B
+AF Bauer, Christian
+   Herz, Bernhard
+TI Monetary and exchange rate stability in South and East Asia
+SO PACIFIC-BASIN FINANCE JOURNAL
+LA English
+DT Article
+DE Monetary policy; Exchange rate policy; Credibility; Technical trading;
+   East Asia
+ID RATE REGIMES; STRATEGIES; VOLATILITY; COUNTRIES; DYNAMICS
+AB Regaining exchange rate stability has been a major monetary policy goal of East Asian countries in the aftermath of the 1997/98 currency crisis. While most countries have abstained from re-establishing a formal US Dollar peg, they have typically managed the US Dollar exchange rate de facto. We show that most of these countries were able to regain their monetary credibility within a relatively short time period. The Argentine crisis in 2001 caused a minor setback in this process for some countries. We measure the credibility of monetary policy by separating the fundamental and excess volatility of the exchange rate on the basis of a chartist-fundamentalist model. The degree of excess volatility is interpreted as the ability of the central bank to manage the exchange rate via the coordination channel. (C) 2008 Elsevier B.V. All rights reserved.
+C1 [Bauer, Christian; Herz, Bernhard] Univ Bayreuth, Chair Econ Policy, Fac Law & Econ, D-95440 Bayreuth, Germany.
+C3 University of Bayreuth
+RP Bauer, C (corresponding author), Univ Bayreuth, Chair Econ Policy, Fac Law & Econ, POB 101251, D-95440 Bayreuth, Germany.
+EM Chrisitan.Bauer@uni-bayreuth.de
+CR [Anonymous], 1998, Applied Mathematical Finance, DOI DOI 10.1080/135048698334727
+   [Anonymous], PRINCETON STUDIES IN
+   Asian Development Bank, 1996, AS DEV OUTL
+   BAIG T, 2001, CHARACTERIZING EXCHA
+   Balduzzi P, 1997, J FINANC QUANT ANAL, V32, P137, DOI 10.2307/2331170
+   Bauer C, 2005, EASTERN EUR ECON, V43, P55, DOI 10.1080/00128775.2005.11041105
+   BAUER C, 2007, CLASSIFICATION UNPUB
+   Bauer C, 2005, GLOB FINANC J, V15, P281, DOI 10.1016/j.gfj.2004.07.002
+   Beng G. W., 2000, J ASIAN EC, V11, P403
+   BERTOLA G, 1992, AM ECON REV, V82, P520
+   Brock WA, 1998, J ECON DYN CONTROL, V22, P1235, DOI 10.1016/S0165-1889(98)00011-6
+   Calvo GA, 2002, Q J ECON, V117, P379, DOI 10.1162/003355302753650274
+   De Grauwe P., 1993, EXCHANGE RATE THEORY, DOI DOI 10.2307/2554626
+   DE GRAUWE Paul, 1992, J INT COMP EC, V1, P86
+   DEGRAUWE P, 2002, EXCHANGE RATE ITS FU, V639
+   DELONG JB, 1990, J POLIT ECON, V98, P703, DOI 10.1086/261703
+   Farmer JD, 2002, J ECON BEHAV ORGAN, V49, P149, DOI 10.1016/S0167-2681(02)00065-3
+   Fischer S., 2001, DIST LECT EC GOV M A
+   Frenkel M., 1997, INT J BUSINESS, V2, P1
+   Frey R, 1997, MATH FINANC, V7, P351, DOI 10.1111/1467-9965.00036
+   Hernández L, 2003, J JPN INT ECON, V17, P336, DOI 10.1016/S0889-1583(03)00007-8
+   Hung JH, 1997, J INT MONEY FINANC, V16, P779, DOI 10.1016/S0261-5606(97)00023-5
+   Jeanne O, 2002, Q J ECON, V117, P537, DOI 10.1162/003355302753650328
+   JULYGUPTA P, 2007, J INT ECON, V72, P428
+   KIM S, 2004, FEAR FLOATING E ASIA
+   Levy-Yeyati E, 2005, EUR ECON REV, V49, P1603, DOI 10.1016/j.euroecorev.2004.01.001
+   Levy-Yeyati E, 2003, AM ECON REV, V93, P1173, DOI 10.1257/000282803769206250
+   MAGUD N, 2005, CAPITAL CON IN PRESS
+   Menkhoff L, 1998, J INT MONEY FINANC, V17, P547, DOI 10.1016/S0261-5606(98)00016-3
+   NITITHANPRAPAS I, 2002, 2002 ANN M AM POL SC
+   Noland M., 2005, 11381 NBER
+   Reinhart CM, 2004, Q J ECON, V119, P1, DOI 10.1162/003355304772839515
+   SCHMIDT R, 2005, KREDIT KAPITAL, V38, P53
+   Schnabl G, 2002, JPN WORLD ECON, V14, P425, DOI 10.1016/S0922-1425(02)00016-6
+   VON HAGEN Jurgen, 2002, B13 ZEI
+NR 35
+TC 1
+Z9 1
+U1 0
+U2 6
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0927-538X
+J9 PAC-BASIN FINANC J
+JI Pac.-Basin Financ. J.
+PD JUN
+PY 2009
+VL 17
+IS 3
+BP 352
+EP 371
+DI 10.1016/j.pacfin.2008.07.002
+PG 20
+WC Business, Finance
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA 545LO
+UT WOS:000273733800004
+DA 2024-02-25
+ER
+
+PT J
+AU Kuncoro, H
+AF Kuncoro, Haryo
+TI Interest Rate Policy and Exchange Rates Volatility Lessons from
+   Indonesia
+SO JOURNAL OF CENTRAL BANKING THEORY AND PRACTICE
+LA English
+DT Article
+DE Inflation Targeting; Interest Rate Policy; International Reserve;
+   Exchange Rates Volatility; ARDL
+ID RATE PASS-THROUGH; MONETARY-POLICY; COINTEGRATION; PRICES; EAST; FEAR
+AB Whether or not inflation targeting adoption leads to increased volatility of exchange rates is controversial. The volatility increases with inflation targeting as a result of the flexible exchange rate regime. Others argue that inflation targeting delivers the best outcomes in terms of lower exchange rate volatility. The purpose of this paper is to investigate whether interest rate policy in inflation targeting frameworks - that is subjected to control inflation rate may reduce the volatility of exchange rates. To test the hypothesis, we use monthly data in the case of Indonesia over the period 2005(7)-2016(7). Several control variables are introduced in the regressions. The result of the autoregressive distributed lag model proves the interest rate policy and foreign exchange intervention fail to reduce the exchange rates volatility. It seems inflation targeting in Indonesia puts too much emphasis on stabilizing the domestic currency thus leading to benign neglect of stabilizing its external value, ultimately resulting in increased exchange rate volatility. These findings suggest that central bank credibility plays an important role in conducting inflation targeting policy which operates primarily through a signalling effect.
+C1 [Kuncoro, Haryo] State Univ Jakarta, Fac Econ, Jakarta, Indonesia.
+C3 Universitas Negeri Jakarta
+RP Kuncoro, H (corresponding author), State Univ Jakarta, Fac Econ, Jakarta, Indonesia.
+EM har_kun@feunj.ac.id
+RI Wiralaga, Harya Kuncara/GQO-9107-2022
+OI Kuncoro, Haryo/0000-0002-4512-1389
+CR Abdurohman, 2017, SINGAP ECON REV, V62, P377, DOI 10.1142/S0217590816500041
+   Adenan M., 2014, INT REV MANAGEMENT B, V3, P211
+   Adolfson M, 2007, J INT MONEY FINANC, V26, P468, DOI 10.1016/j.jimonfin.2007.01.005
+   Aizenman J, 2011, WORLD DEV, V39, P712, DOI 10.1016/j.worlddev.2010.11.005
+   Akyurek C, 2008, COMP ECON STUD, V50, P460, DOI 10.1057/ces.2008.23
+   [Anonymous], 10751 NBER
+   [Anonymous], INT J EC FINANC
+   Ball CP, 2008, J MACROECON, V30, P308, DOI 10.1016/j.jmacro.2006.08.005
+   Bruno V, 2015, J MONETARY ECON, V71, P119, DOI 10.1016/j.jmoneco.2014.11.011
+   Bulut U, 2018, J CENT BANK THEOR PR, V7, P73, DOI 10.2478/jcbtp-2018-0024
+   Cabral R., 2018, 7712 WORLD BANK
+   Calvo GA, 2002, Q J ECON, V117, P379, DOI 10.1162/003355302753650274
+   Berganza JC, 2012, J INT MONEY FINANC, V31, P428, DOI 10.1016/j.jimonfin.2011.12.002
+   Chang R., 2008, BORRADORES EC, V487
+   Choudhri EU, 2006, J INT MONEY FINANC, V25, P614, DOI 10.1016/j.jimonfin.2005.11.009
+   Edwards S., 2006, NBER WORKING PAPER S
+   Enders W., 2008, Applied econometric time series
+   ENGLE RF, 1987, ECONOMETRICA, V55, P251, DOI 10.2307/1913236
+   Fabris N, 2017, J CENT BANK THEOR PR, V6, P23, DOI 10.1515/jcbtp-2017-0011
+   Frankel J, 2010, J INT MONEY FINANC, V29, P585, DOI 10.1016/j.jimonfin.2009.11.004
+   Gagnon JE, 2004, INT J FINANC ECON, V9, P315, DOI 10.1002/ijfe.253
+   Georgiadis G, 2016, J INT ECON, V103, P200, DOI 10.1016/j.jinteco.2016.10.002
+   HVIDING K, 2004, WP04189 IMF
+   JOHANSEN S, 1991, ECONOMETRICA, V59, P1551, DOI 10.2307/2938278
+   JOHANSEN S, 1988, J ECON DYN CONTROL, V12, P231, DOI 10.1016/0165-1889(88)90041-3
+   Juoro U., 2013, B MONETARY EC BANKIN, V16, P81
+   Kandil M, 2014, EAST ECON J, V40, P420, DOI 10.1057/eej.2013.25
+   Kruskovic BD, 2017, J CENT BANK THEOR PR, V6, P55, DOI 10.1515/jcbtp-2017-0004
+   Kuncoro H, 2015, REV ECON PERSPECT, V15, P137, DOI 10.1515/revecp-2015-0014
+   Kurihara Y., 2013, J WORLD EC RES, V2, P104
+   Madura J., 2014, INT FINANCIAL MANAGE
+   Mishkin F.S., 2004, NBER WORKING PAPERS, V10646
+   Mishkin SF, 2002, INFLATION TARGETING, P171
+   Narayan PK, 2019, EMERG MARK REV, V38, P364, DOI 10.1016/j.ememar.2018.11.005
+   Narayan S. W., 2019, Bulletin of Monetary Economics and Banking, V21, P303
+   Narayan S.W., 2018, BULET EKON MON DAN P, V21, P177
+   Nogueira Junior Reginaldo Pinto, 2007, Econ. Apl., V11, P189, DOI 10.1590/S1413-80502007000200002
+   Obstfeld M, 2005, REV ECON STAT, V87, P423, DOI 10.1162/0034653054638300
+   Osawa N., 2006, BANK JAPAN WORKING P
+   Pesaran M.H., 1999, An autoregressive distributed lag approach to co-integration analysis, DOI DOI 10.1017/CBO9781139052221.011
+   Petreski M., 2012, INT J EC FINANCIAL I, V2, P528
+   Petursson T., 2009, 43 CENTR BANK IC
+   Pontines Victor, 2013, International Economic Journal, V27, P25
+   Pontines V, 2012, REV INT ECON, V20, P893, DOI 10.1111/roie.12002
+   Prasertnukul W, 2010, JPN WORLD ECON, V22, P173, DOI 10.1016/j.japwor.2010.03.002
+   Rey H., 2018, NBER Working Paper: 21162
+   Rocha M., 2011, REV ECON CONTEMP, V15, P342
+   Rose AK, 2007, J INT MONEY FINANC, V26, P663, DOI 10.1016/j.jimonfin.2007.04.004
+   Salle I, 2013, ECON MODEL, V34, P114, DOI 10.1016/j.econmod.2013.01.031
+   Sebayang K. D., 2013, ROMANIAN J FISCAL PO, V4, P47
+   Sek S.K., 2012, APPL MATH SCI, V32, P1571
+   Senay O., 2001, ROLE EXCHANGE RATE M
+   Stone M., 2009, 267 IMF
+   Taguchi H, 2014, ASIAN ECON J, V28, P139, DOI 10.1111/asej.12029
+   Taylor JB, 2001, AM ECON REV, V91, P263, DOI 10.1257/aer.91.2.263
+NR 55
+TC 6
+Z9 6
+U1 5
+U2 12
+PU SCIENDO
+PI WARSAW
+PA BOGUMILA ZUGA 32A, WARSAW, MAZOVIA, POLAND
+SN 1800-9581
+EI 2336-9205
+J9 J CENT BANK THEOR PR
+JI J. Cent. Bank Theor. Pract.
+PD MAY
+PY 2020
+VL 9
+IS 2
+BP 19
+EP 42
+DI 10.2478/jcbtp-2020-0012
+PG 24
+WC Business, Finance
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA LW4AS
+UT WOS:000539087500002
+OA gold
+DA 2024-02-25
+ER
+
+PT J
+AU Rodseth, A
+AF Rodseth, A
+TI Exchange rate versus price level targets and output stability
+SO SCANDINAVIAN JOURNAL OF ECONOMICS
+LA English
+DT Article
+ID MONETARY-POLICY; RULES
+AB Two alternative targets for monetary policy are considered: stability of the price level (or the rate of inflation) and stability of the exchange rate. The interest rate is the main instrument of the central bank. Credibility requires low output variability. The advantages of the alternative policy rules from the point of view of output stability are considered in the simplest possible model. Conditions favouring a price level rule are high volatility of aggregate demand, low volatility of aggregate supply, high volatility of the foreign price level, a low price elasticity of aggregate demand and a high price elasticity of aggregate supply.
+RP Rodseth, A (corresponding author), UNIV OSLO,N-0317 OSLO,NORWAY.
+CR AIZENMAN J, 1986, ECON LETT, V21, P183, DOI 10.1016/0165-1765(86)90062-5
+   ALOGOSKOUFIS GS, 1994, HDB INT MACROECONOMI
+   ARGY V, 1990, CHOOSING EXCHANGE RA
+   BARRO RJ, 1983, J MONETARY ECON, V12, P101, DOI 10.1016/0304-3932(83)90051-X
+   BEAN CR, 1983, ECON J, V93, P806, DOI 10.2307/2232747
+   GENBERG H, 1989, SCAND J ECON, V91, P439, DOI 10.2307/3440122
+   GOODHART CAE, 1994, ECON J, V104, P1424, DOI 10.2307/2235461
+   KYDLAND FE, 1977, J POLITICAL EC, V85, P619
+   LEIDERMAN L, 1995, INFLATION TARGETS
+   LONNING IM, 1995, 22 U OSL DEP EC
+   Marston R., 1985, HDB INT EC
+   MCCALLUM BT, 1995, AM ECON REV, V85, P207
+   POOLE W, 1970, Q J ECON, V100, P1169
+   RODSETH A, 1996, 7 U OSL DEP EC
+   ROISLAND O, 1996, 9 U OSL DEP EC
+   Sargent T., 1986, Rational Expectations and Inflation
+NR 16
+TC 3
+Z9 3
+U1 0
+U2 0
+PU BLACKWELL PUBL LTD
+PI OXFORD
+PA 108 COWLEY RD, OXFORD, OXON, ENGLAND OX4 1JF
+SN 0347-0520
+J9 SCAND J ECON
+JI Scand. J. Econ.
+PY 1996
+VL 98
+IS 4
+BP 559
+EP 577
+DI 10.2307/3440884
+PG 19
+WC Economics
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA VY908
+UT WOS:A1996VY90800007
+DA 2024-02-25
+ER
+
+PT J
+AU Tanuwidjaja, E
+   Choy, KM
+AF Tanuwidjaja, Enrico
+   Choy, Keen Meng
+TI Central bank credibility and monetary policy in Indonesia
+SO JOURNAL OF POLICY MODELING
+LA English
+DT Article
+DE central bank credibility; monetary policy; Indonesia; small scale
+   macroeconomic model; policy frontier
+AB This paper examines the role of central bank credibility in achieving an inflation target and proposes monetary policy rules for Indonesia. Towards that end, we construct and estimate a forward-looking small scale macroeconomic model (SSMM) of the Indonesian economy by adapting the theoretical underpinnings of the well-known Batini-Haldane model, along with the Taylor policy rule. Our results indicate that it is crucial for the Indonesian central bank to bolster its credibility in order to achieve a lower inflation rate. The inflation-output volatility trade-off frontier we derived from the SSMM shows that a monetary policy rule that targets both inflation and output gaps will result in less macroeconomic volatility. We also found that the inclusion of the exchange rate into the rule as an additional feedback variable warrants consideration in the future course of monetary policy management. (c) 2006 Society for Policy Modeling. Published by Elsevier Inc. All rights reserved.
+C1 Natl Univ Singapore, Singapore Ctr Appl & Policy Econ, Singapore 117548, Singapore.
+   Nanyang Technol Univ, Sch Humanities & Social Sci, Div Econ, Singapore, Singapore.
+C3 National University of Singapore; Nanyang Technological University
+RP Tanuwidjaja, E (corresponding author), Natl Univ Singapore, Singapore Ctr Appl & Policy Econ, Singapore 117548, Singapore.
+EM ecste@nus.edu.sg
+CR ALAMSYAH H, 2000, MONETARY POLICY INFL, P222
+   [Anonymous], 1937, EY JACKSON GOVERNOR
+   [Anonymous], MON POL INFL TARG EM
+   Arreaza A., 2003, SMALL SCALE MACROECO
+   Ball L, 1999, NBER CONF R, P127
+   *BANK IND, 2004, QUART REP JAN
+   *BANK IND, 2003, QUAT REP OCT
+   Batini N, 1999, NBER CONF R, P157
+   de Freitas P.S., 1999, SIMPLE MODEL INFLATI
+   DEBELLE G, 2000, MONETARY POLICY INFL, P67
+   HALDANE A, 1995, TARGETING INFLATION
+   McCallum BT, 1999, J MONEY CREDIT BANK, V31, P296, DOI 10.2307/2601113
+   SAXEGAARD M, 2001, THESIS OXFORD U
+   Siregar R, 2005, J POLICY MODEL, V27, P867, DOI 10.1016/j.jpolmod.2005.06.005
+   Svensson LEO, 2000, J INT ECON, V50, P155, DOI 10.1016/S0022-1996(98)00078-6
+   TANUWIDJAJA F, 2005, THESIS NATL U SINGAP
+   Taylor J. B., 1993, Carnegie-Rochester Conference Series on Public Policy, V39, P195
+   Taylor JB, 2000, OXFORD REV ECON POL, V16, P60, DOI 10.1093/oxrep/16.4.60
+   WARJIYO P, 2001, INFLATION TARGETING, P195
+NR 19
+TC 11
+Z9 12
+U1 0
+U2 8
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA 360 PARK AVE SOUTH, NEW YORK, NY 10010-1710 USA
+SN 0161-8938
+EI 1873-8060
+J9 J POLICY MODEL
+JI J. Policy Model.
+PD DEC
+PY 2006
+VL 28
+IS 9
+BP 1011
+EP 1022
+DI 10.1016/j.jpolmod.2006.05.003
+PG 12
+WC Economics
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA 115MC
+UT WOS:000242737400005
+DA 2024-02-25
+ER
+
+PT J
+AU Hossain, AA
+AF Hossain, Akhand Akhtar
+TI Inflation volatility, economic growth and monetary policy in Bangladesh
+SO APPLIED ECONOMICS
+LA English
+DT Article
+DE inflation; inflation volatility; economic growth; Granger-causality;
+   SVAR analysis; monetary policy; Bangladesh
+ID MONEY
+AB This article provides an overview of the trends and movements of CPI-inflation in Bangladesh since the early 1950s and examines the key issues in rule-based monetary policy for price stability, implying low and stable inflation, in this country. Under a fixed exchange rate system, inflation in Bangladesh was moderately high and volatile during the 1950s and 1960s. Since the country's independence from Pakistan in 1971, inflation in Bangladesh has remained moderately high on average and highly volatile and persistent under a fixed-pegged exchange rate system or under a managed floating system since 2003. Using data from the early 1970s or earlier depending on data availability, the article undertakes both Granger-causality and the structural vector autoregression (SVAR) analysis with two models. The first model is comprised of such variables as inflation, the real interest rate, the real exchange rate and output growth, and the second model is comprised of the volatilities of money growth, real output growth and inflation. Then, based on the empirical findings, the article concludes that a rule-based monetary policy, namely monetary targeting or inflation targeting, remains appropriate for Bangladesh provided that it adopts a more flexible, if not freely floating, exchange rate system. The article suggests that the use of monetary policy to achieve multiple objectives under a fixed-pegged exchange rate system creates a time-inconsistency problem, reduces monetary policy credibility and makes it (monetary policy) ineffective in lowering inflation and its volatility. Low credibility of monetary policy in particular raises inflation persistence. Within the present monetary-policy framework in Bangladesh, the article illustrates how the fixed-pegged exchange rate system has generated money growth volatility in the presence of large-scale inflows of overseas workers' remittances and readymade garments export earnings. This does not seem to be a concern of the central bank of Bangladesh (Bangladesh Bank); rather, it (Bangladesh Bank) pursues monetary-base targeting to keep inflation low and stable after considering economic growth. The consequent diminishing credibility of monetary policy has kept inflation volatile and persistent, which has adversely affected economic growth.
+C1 Univ Newcastle, Newcastle Business Sch, Newcastle, NSW 2308, Australia.
+C3 University of Newcastle
+RP Hossain, AA (corresponding author), Univ Newcastle, Newcastle Business Sch, Newcastle, NSW 2308, Australia.
+EM akhtar.hossain@newcastle.edu.au
+OI hossain, Akhtar/0000-0002-5224-7545
+CR ALESINA A, 1991, AM ECON REV, V81, P1170
+   [Anonymous], 2010, HDB MONETARY EC, DOI DOI 10.1016/B978-0-444-53454-5.00006-2
+   [Anonymous], BANGL EC REV
+   [Anonymous], STAT YB BANGL
+   [Anonymous], HDB MONETARY EC
+   [Anonymous], INFLATION EC GROWTH
+   [Anonymous], EC TRENDS
+   [Anonymous], INDIAN EC REV
+   [Anonymous], INFLATION DEV COUNTR
+   [Anonymous], EC MANAGEMENT VOLATI
+   [Anonymous], INT FINANCIAL STAT
+   [Anonymous], 2003, MACROECONOMICS EMERG
+   BALL L, 1992, J MONETARY ECON, V29, P371, DOI 10.1016/0304-3932(92)90032-W
+   Bangladesh Bank, 2005, BANGL BANK POL NOT S, VPN0602
+   Bangladesh Bank, 2006, MON POL STAT JAN, P1
+   BBS Bangladesh Bureau of Statistics, 2003, 20 YEARS NAT ACC
+   Bentour E. M., 2009, REAL INTEREST UNPUB
+   Bruno M, 1998, J MONETARY ECON, V41, P3, DOI 10.1016/S0304-3932(97)00063-9
+   Calvo GA, 2002, Q J ECON, V117, P379, DOI 10.1162/003355302753650274
+   CUKIERMAN A, 1986, ECONOMETRICA, V54, P1099, DOI 10.2307/1912324
+   Easterly W, 2001, J MONEY CREDIT BANK, V33, P160, DOI 10.2307/2673879
+   ENGLE RF, 1987, ECONOMETRICA, V55, P251, DOI 10.2307/1913236
+   FISCHER S, 1993, J MONETARY ECON, V32, P485, DOI 10.1016/0304-3932(93)90027-D
+   Friedman B. M., 2011, HANDBOOK OF MONETARY, V3A and 3B
+   FRIEDMAN BM, 1990, HDB MONETARY EC, V2
+   FRIEDMAN M, 1968, AM ECON REV, V58, P1
+   Friedman M., 1960, PROGRAM MONETARY STA
+   Friedman M., 2006, TRADE OFFS MON UNPUB
+   Fuhrer Jeffrey C., 2011, Handbook of Monetary Economics, V3A, P423
+   Hossain A., 2014, J BANGLADESH STUDIES, V15, P20
+   Hossain A., 2011, BANGLADESH EC 21 CEN, P385
+   Hossain A., EVOLUTION CENTRAL BA
+   Hossain A., 2003, DEV ISSUES BANGLADES
+   Hossain AA, 2009, CENTRAL BANKING AND MONETARY POLICY IN THE ASIA-PACIFIC, P1
+   Hossain AA, 2014, J POST KEYNESIAN EC, V36, P745, DOI 10.2753/PKE0160-3477360408
+   Hossain AA, 2010, J ASIAN ECON, V21, P564, DOI 10.1016/j.asieco.2010.07.003
+   Krugman PaulR., 2015, International Economics: Theory and Policy
+   McCallum B. T., 2011, Handbook of Monetary Economics, V3, P97
+   Mishkin FS, 2013, The economics of money, banking and financial markets, V10
+   OKUN AM, 1971, BROOKINGS PAP ECO AC, P485
+   Ouanes A., 1997, MACROECONOMIC ACCOUN
+   Poole W., 2008, REGIONAL EC, V9
+   Sorensen P., 2005, INTRO ADV MACROECONO
+   Svensson Lars E.O., 2011, Handbook of Monetary Economics, V3
+   Taylor J.B., 2000, 75 ANN C STAB MON PO
+   TAYLOR JB, 1979, AM ECON REV, V69, P108
+   Woodford M, 2008, J MONEY CREDIT BANK, V40, P1561, DOI 10.1111/j.1538-4616.2008.00175.x
+NR 47
+TC 7
+Z9 7
+U1 1
+U2 19
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 0003-6846
+EI 1466-4283
+J9 APPL ECON
+JI Appl. Econ.
+PY 2015
+VL 47
+IS 52
+BP 5667
+EP 5688
+DI 10.1080/00036846.2015.1054074
+PG 22
+WC Economics
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA CR8SQ
+UT WOS:000361624600006
+DA 2024-02-25
+ER
+
+PT J
+AU Minella, A
+   de Freitas, PS
+   Goldfajn, I
+   Muinhos, MK
+AF Minella, A
+   de Freitas, PS
+   Goldfajn, I
+   Muinhos, MK
+TI Inflation targeting in Brazil: constructing credibility under exchange
+   rate volatility
+SO JOURNAL OF INTERNATIONAL MONEY AND FINANCE
+LA English
+DT Article; Proceedings Paper
+CT Conference on Regional and International Implications of the Financial
+   Instability in Latin America
+CY APR 10-11, 2003
+CL UNIV CALIFORNIA SANTA CRUZ, SANTA CRUZ, CALIFORNIA
+HO UNIV CALIFORNIA SANTA CRUZ
+DE inflation targeting; Brazil; monetary policy
+ID MONETARY-POLICY RULES
+AB This paper assesses the challenges faced by the inflation-targeting regime in Brazil. The inflation-targeting framework has played a critical role in macroeconomic stabilization. We stress two important challenges: construction of credibility and exchange rate volatility. The estimations indicate the following results: (i) the inflation targets have worked as an important coordinator of expectations; (ii) the Central Bank has reacted strongly to inflation expectations; (iii) there has been a reduction in the degree of inflation persistence; and (iv) the exchange rate pass-through for "administered or monitored" prices is two times higher than for "market" prices. (C) 2003 Elsevier Ltd. All rights reserved.
+C1 Cent Bank Brazil, Res Dept, BR-70074900 Brasilia, DF, Brazil.
+   Pontificia Univ Catolica Rio de Janeiro, Dept Econ, BR-22453900 Rio De Janeiro, Brazil.
+C3 Central Bank of Brazil; Pontificia Universidade Catolica do Rio de
+   Janeiro
+RP Minella, A (corresponding author), Cent Bank Brazil, Res Dept, SBS,Quadra 3,Bloco B,Edificio Sede 9 Andar, BR-70074900 Brasilia, DF, Brazil.
+CR [Anonymous], 1994, HDB ECONOMETRICS
+   [Anonymous], 88 FED RES BANK NEW
+   Calvo GA, 2002, Q J ECON, V117, P379, DOI 10.1162/003355302753650274
+   Clarida R, 2000, Q J ECON, V115, P147, DOI 10.1162/003355300554692
+   Clarida R, 1998, EUR ECON REV, V42, P1033, DOI 10.1016/S0014-2921(98)00016-6
+   FAVERO CA, 2002, WORKING PAPER SERIES, V224
+   FRAGA A, IN PRESS NBER MACROE, V18
+   FREITAS PS, 2002, 22 BANC CENTR BRAS
+   Goldfajn I., 2000, WORKING PAPER SERIES, V5
+   Hausmann R, 2001, J DEV ECON, V66, P387, DOI 10.1016/S0304-3878(01)00168-7
+   Mishkin F, 2000, NBER WORKING PAPER S, V7618
+   MUINHOS MK, 2001, WORKING PAPER SERIES, V26
+   SCHMIDTHEBEL K, 2002, 171 CENTR BANK CHIL
+   SILVA MEA, 2002, BANCO CENTRAL URUGUA, V9, P85
+   SIMS CA, 1990, ECONOMETRICA, V58, P113, DOI 10.2307/2938337
+   Taylor J. B., 1993, Carnegie-Rochester Conference Series on Public Policy, V39, P195
+   Werlang SR, 2000, WORKING PAPER SERIES, V1
+NR 17
+TC 77
+Z9 107
+U1 0
+U2 11
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0261-5606
+J9 J INT MONEY FINANC
+JI J. Int. Money Finan.
+PD DEC
+PY 2003
+VL 22
+IS 7
+BP 1015
+EP 1040
+DI 10.1016/j.jimonfin.2003.09.008
+PG 26
+WC Business, Finance
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH); Social Science Citation Index (SSCI)
+SC Business & Economics
+GA 749JG
+UT WOS:000186915900006
+OA Green Submitted
+DA 2024-02-25
+ER
+
+PT J
+AU Pasquariello, P
+AF Pasquariello, Paolo
+TI Central bank intervention and the intraday process of price formation in
+   the currency markets
+SO JOURNAL OF INTERNATIONAL MONEY AND FINANCE
+LA English
+DT Article
+DE Foreign exchange; Central bank intervention; Market microstructure;
+   Liquidity; Volatility; Bid-ask spread
+ID FOREIGN-EXCHANGE MARKET; BID-ASK SPREADS; GOVERNMENT INTERVENTION;
+   OFFICIAL INTERVENTION; TRANSACTION PRICES; INFORMED TRADERS; DEALER
+   MARKETS; MICROSTRUCTURE; COMPETITION; RATES
+AB We propose a novel theory of the impact of sterilized spot interventions on the microstructure of currency markets that focuses on their liquidity. We analyze the effectiveness of intervention operations in a model of sequential trading in which i) a rational Central Bank faces a trade-off between policy motives and wealth maximization: ii) currency dealers' sole objective is to provide immediacy at a cost while maintaining a driftless expected foreign currency position; and iii) adverse selection, inventory, signaling, and portfolio balance considerations are absent by assumption. In this setting, and consistent with available empirical evidence, we find that i) the mere likelihood of a future intervention even if expected, non-secret, and uninformative is sufficient to generate endogenous effects on exchange rate levels, to increase exchange rate volatility, and to impact bid-ask spreads; and ii) these effects are exacerbated by the intensity of dealership competition, the extent of the Central Bank's policy trade-off, and the credibility of its threat of future actions. (c) 2010 Elsevier Ltd. All rights reserved.
+C1 Univ Michigan, Ross Sch Business, Ann Arbor, MI 48109 USA.
+C3 University of Michigan System; University of Michigan
+RP Pasquariello, P (corresponding author), Univ Michigan, Ross Sch Business, 701 Tappan St,Suite R4434, Ann Arbor, MI 48109 USA.
+EM ppasquar@bus.umich.edu
+RI Pasquariello, Paolo/A-1143-2007
+CR ADAMS D, 1983, 126 FED RES BOARD GO
+   *BANK INT SETTL, 2008, TRIENN CENTR BANK SU
+   BESSEMBINDER H, 1994, J FINANC ECON, V35, P317, DOI 10.1016/0304-405X(94)90036-1
+   Bhattacharya U, 1997, J MONETARY ECON, V39, P251, DOI 10.1016/S0304-3932(97)00019-6
+   BIAIS B, 1993, J FINANC, V48, P1765
+   BOLLERSLEV T, 1994, J INT ECON, V36, P355, DOI 10.1016/0022-1996(94)90008-6
+   BOSSAERTS P, 1991, REV FINANC STUD, V4, P513, DOI 10.1093/rfs/4.3.513
+   Branson W.H., 1983, Managing foreign Exchange risk
+   BRANSON WH, 1984, CONT MACROECONOMIC M
+   BROCK WA, 1992, J ECON DYN CONTROL, V16, P451, DOI 10.1016/0165-1889(92)90045-G
+   BROWN S, 2001, PACIFIC BASIN FINANC, V9, P301
+   Cadenillas A, 1999, J ECON THEORY, V87, P218, DOI 10.1006/jeth.1999.2523
+   Cadenillas A, 2000, MATH FINANC, V10, P141, DOI 10.1111/1467-9965.00086
+   Cao HH, 2006, J BUS, V79, P325, DOI 10.1086/497413
+   Chancellor Edward, 2000, Devil Take the Hindmost: A History of Financial Speculation
+   Chari A, 2007, J MONEY CREDIT BANK, V39, P1131, DOI 10.1111/j.1538-4616.2007.00060.x
+   DENNERT J, 1993, REV ECON STUD, V60, P735, DOI 10.2307/2298133
+   Dominguez K.M., 1992, EXCHANGE RATE EFFICI
+   DOMINGUEZ KATHRYN M., 1993, DOES FOREIGN EXCHANG
+   Dominguez KME, 2006, J INT MONEY FINANC, V25, P1051, DOI 10.1016/j.jimonfin.2006.08.009
+   Dominguez KM, 1998, J INT MONEY FINANC, V17, P161, DOI 10.1016/S0261-5606(97)98055-4
+   Dominguez KME, 2003, J INT ECON, V59, P25, DOI 10.1016/S0022-1996(02)00091-0
+   Dutta PK, 1997, J FINANC, V52, P245, DOI 10.2307/2329563
+   EDISON H, 1993, ESSAYS INT FINANCE
+   Ehrmann M, 2007, J MONEY CREDIT BANK, V39, P509, DOI 10.1111/j.0022-2879.2007.00034.x
+   EVANS M, 2005, EXCHANGE RATE EC WHE
+   FISCHER A, 2004, 0404 SWI SWISS NAT B
+   Fischer AM, 1999, ECON J, V109, P662, DOI 10.1111/1468-0297.00467
+   Fratzscher M, 2005, ECON LETT, V89, P68, DOI 10.1016/j.econlet.2005.05.014
+   GARMAN MB, 1976, J FINANC ECON, V3, P257, DOI 10.1016/0304-405X(76)90006-4
+   GLOSTEN LR, 1985, J FINANC ECON, V14, P71, DOI 10.1016/0304-405X(85)90044-3
+   GROSSMAN SJ, 1980, AM ECON REV, V70, P393
+   HO TSY, 1983, J FINANC, V38, P1053, DOI 10.2307/2328011
+   Huang RD, 1999, REV FINANC STUD, V12, P61, DOI 10.1093/rfs/12.1.61
+   Kaminsky GL, 1996, J MONETARY ECON, V37, P285, DOI 10.1016/S0304-3932(96)90038-0
+   LEWIS KK, 1989, J MONETARY ECON, V23, P79, DOI 10.1016/0304-3932(89)90063-9
+   LEWIS KK, 1995, AM ECON REV, V85, P691
+   Lyons R. K., 2001, MICROSTRUCTURE APPRO
+   Lyons RK, 1997, J INT ECON, V42, P275, DOI 10.1016/S0022-1996(96)01471-7
+   MADHAVAN A, 1992, J FINANC, V47, P607, DOI 10.2307/2329117
+   MOLONEY T, 2000, G7 INTERVENTION HIST
+   Mussa M., 1981, 6 GROUP 30
+   Naranjo A, 2000, REV FINANC STUD, V13, P453, DOI 10.1093/rfs/13.2.453
+   NEELY C, 2000, CENTRAL BANKING, V9, P24
+   OHara M., 1997, Market Microstructure Theory
+   Pasquariello P, 2007, J FINANC MARK, V10, P107, DOI 10.1016/j.finmar.2006.11.001
+   Payne R, 2003, J INT ECON, V61, P331, DOI 10.1016/S0022-1996(03)00012-6
+   Peiers B, 1997, J FINANC, V52, P1589, DOI 10.2307/2329448
+   Persson Torsten., 1990, Macroeconomic Policy, Credibility, and Politics
+   SAAR G, 2000, PRICES SPREADS UNPUB
+   SAAR G, 2000, DEMAND UNCERTAINTY I
+   Sarno L, 2001, J ECON LIT, V39, P839, DOI 10.1257/jel.39.3.839
+   STEIN JC, 1989, AM ECON REV, V79, P32
+   TAYLOR D, 1982, J POLIT ECON, V90, P356, DOI 10.1086/261060
+   TAYLOR MP, 1995, J ECON LIT, V33, P13
+   Vitale P, 1999, J INT ECON, V49, P245, DOI 10.1016/S0022-1996(98)00065-8
+NR 56
+TC 8
+Z9 10
+U1 0
+U2 12
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0261-5606
+J9 J INT MONEY FINANC
+JI J. Int. Money Finan.
+PD OCT
+PY 2010
+VL 29
+IS 6
+BP 1045
+EP 1061
+DI 10.1016/j.jimonfin.2010.02.002
+PG 17
+WC Business, Finance
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA 643TQ
+UT WOS:000281322500005
+OA Green Submitted
+DA 2024-02-25
+ER
+
+PT J
+AU Huh, CG
+   Wu, J
+AF Huh, Chan-Guk
+   Wu, Jie
+TI LINKAGE BETWEEN US MONETARY POLICY AND EMERGING ECONOMIES: THE CASE OF
+   KOREA'S FINANCIAL MARKET AND MONETARY POLICY
+SO INTERNATIONAL JOURNAL OF ECONOMIC SCIENCES
+LA English
+DT Article
+DE Monetary policy; International transmission; Volatility; Central bank
+   balance
+AB This study offers empirical evidence on the linkage between the US monetary policy and Korean financial market volatilities, and the efficacy of Korea's' monetary policy in the past decade and a half. First, we find evidence showing significant effects of interest spreads between short and long term interest rates of Korea and the US, and other US variables on the volatility of won-dollar exchange rate as well as Korean stock market index. Second, we find evidence that suggests that capital inflow into Korea might have weakened the efficacy of its monetary policy since the mid-2000s, a period notable for the increased accession by foreign investors to the Korean bond market and the US quantitative easing (QE) policy. A distinct change in the propagation mechanism of monetary policy, in which short term policy rate affects long term interest rates, is observed in Korea since the mid-2000s. In the latter sample period, US monetary policy appears to have had more influence on Korean market interest rates than Korea's policy rate. In addition, we examine structural issues of the balance sheet of Korea's' central bank in view of recent rise in interests in the financial health of central bank balance sheets and monetary policy credibility in the wake of QE policies in advanced economies.
+C1 [Huh, Chan-Guk; Wu, Jie] Chungnam Natl Univ, Coll Econ & Management, Dept Int Trade, Daejeon, South Korea.
+C3 Chungnam National University
+RP Huh, CG (corresponding author), Chungnam Natl Univ, Coll Econ & Management, Dept Int Trade, Daejeon, South Korea.
+EM chanhuh@cnu.ac.kr; chanhuh@cnu.ac.kr
+RI Wu, Jie/HTO-9127-2023
+OI Wu, Jie/0000-0001-6162-8414
+CR Alper C. E., 2008, 7460 MPRA
+   Archer David., 2013, BIS PAPERS
+   Bruno V., 2013, WORKING PAPER
+   Carpenter S., 2013, FINANCE EC DISCUSSIO, V2013-01
+   Cook D., 2012, BIS PAPERS, P11
+   Filardo A., 2012, BIS PAPERS, V66, P31
+   Ghysels E, 2006, J ECONOMETRICS, V131, P59, DOI 10.1016/j.jeconom.2005.01.004
+   Goodfriend M., 2014, 2014E8 I MON EC STUD
+   Hail Park, 2013, Q B, P19
+   Hall R.E., 2013, MAINTAINING CENTRAL
+   Jain-Chandra Sonali, 2012, 12265 IMF
+   JOHANSEN S, 1991, ECONOMETRICA, V59, P1551, DOI 10.2307/2938278
+   Kluh U., 2008, WP08176 IMF
+   Miyajima K., 2014, 478 BIS
+   Poon SH, 2003, J ECON LIT, V41, P478, DOI 10.1257/002205103765762743
+   Rey H., 2013, Jackson Hole Paper
+   Rudebusch Glenn D., 2011, EC LETT
+   Stella P., 2008, WP0849 IMF
+   Sweidan OD, 2011, ASIAN-PAC ECON LIT, V25, P29, DOI 10.1111/j.1467-8411.2011.01281.x
+   허찬국, 2014, [Review of International Money and Finance, 국제금융연구], V4, P21
+NR 20
+TC 3
+Z9 3
+U1 0
+U2 1
+PU INT INST SOCIAL & ECONOMICS SCIENCES-IISES
+PI PRAGUE
+PA KAMERUNSKA 607-1, PRAGUE, 16000, CZECH REPUBLIC
+SN 1804-9796
+J9 INT J ECON SCI
+JI Int. J. Econ. Sci.
+PY 2015
+VL 4
+IS 3
+BP 1
+EP 18
+DI 10.20472/ES.2015.4.3.001
+PG 18
+WC Economics
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA V4E7K
+UT WOS:000218864700001
+OA Bronze
+DA 2024-02-25
+ER
+
+PT J
+AU De Macedo, JB
+   Pereira, LB
+   Reis, AM
+AF de Macedo, Jorge Braga
+   Pereira, Luis Brites
+   Reis, Afonso M.
+TI Comparing Exchange Market Pressure across Five African Countries
+SO OPEN ECONOMIES REVIEW
+LA English
+DT Article
+DE Exchange rate regime; Exchange market pressure; EGARCH-M
+ID VARIANCE; CRISES; MODEL
+AB This paper compares the credibility of exchange rate arrangements for the five African countries which are members of the Community of Portuguese Speaking Countries and will be referred to as Afro-Luso. Our working hypothesis is that credibility necessarily implies low mean exchange market pressure (EMP), low EMP conditional volatility and low-severity EMP crises under financial-market integration. In addition, economic fundamentals must account for EMP dynamics. We also seek evidence of a risk-return relationship for mean EMP and of "bad news" (negative shocks) having a greater impact on EMP volatility than "good news" (positive shocks). Using our econometric models, we are able to rank Afro-Luso countries' conditional volatility in ordinal terms. Our main conclusion is that countries with currency pegs, such as Guinea-Bissau (GB) and Cape Verde (CV), clearly have lower volatility when compared to those with managed floats and are therefore more credible. Moreover, EMP crises episodes under pegs are much less severe. We find that economic fundamentals correctly account for mean EMP in all countries and that the risk-return relationship is much more favourable for investors under currency pegs, as the increase in volatility is lower for the same rate of return. The exception to this finding is Mozambique (MOZ), which apparently has a risk-return profile akin to that enjoyed by countries with pegs. A plausible reason is that MOZ has the only managed float in our sample implementing monetary and exchange rate policy within the confines of an IMF framework, which establishes floors for international reserves and ceilings for the central bank's net domestic assets. This intuition needs to be tested, however. EMP conditional volatility, meanwhile, is generally driven by changes in domestic credit (lowers it) and foreign reserve changes (raises it). The first effect is more pronounced under currency pegs, but also under MOZ's managed float. "Bad news" increases volatility more that "good news" only in the case of CV's currency peg, which we take to be another sign of its credibility. A few striking cross-country comparisons also emerge in our analysis. Among countries with managed floats, Angola (ANG) has the most severe EMP crises, MOZ the least severe and So Tom, & Principe (STP) lies between the two extremes but closer to MOZ.
+C1 [de Macedo, Jorge Braga; Pereira, Luis Brites; Reis, Afonso M.] Trop Res Inst IICT, P-1300344 Lisbon, Portugal.
+C3 Universidade de Lisboa
+RP Pereira, LB (corresponding author), Trop Res Inst IICT, Rua da Junqueira 86-1, P-1300344 Lisbon, Portugal.
+EM lpereira@fe.unl.pt
+RI Pereira, Luis Brites/AAG-3224-2020
+OI Pereira, Luis Brites/0000-0003-2554-9094; Macedo,
+   Jorge/0000-0001-5168-1510
+CR [Anonymous], 1995, ECON POLICY
+   [Anonymous], CURRENCY CONVERTIBIL
+   [Anonymous], 6380 NBER
+   Berg A, 1999, J INT MONEY FINANC, V18, P561, DOI 10.1016/S0261-5606(99)00024-8
+   BERTOLI S, 2006, 200617 U FLOR DEP ST
+   Black F., 1976, P 1976 M AM STAT ASS, P171
+   BOLLERSLEV T, 1986, J ECONOMETRICS, V31, P307, DOI 10.1016/0304-4076(86)90063-1
+   BONAGLIA F, 2001, 2992 CEPR
+   Collier P., 2006, ANGOLA OPTIONS PROSP
+   DEMACEDO JB, 2003, 345 FEUNL
+   DEMACEDO JB, 2006, 484 FEUNL
+   DEMACEDO JB, 2006, 492 FEUNL
+   DEMACEDO JB, 2004, MONETARY STRATEGIES, P109
+   DEMACEDO JB, 2004, SHAPING NEW EUROPE E, pCH8
+   DEMACEDO JB, 2001, DONT FIX DONT FLOAT
+   DEMACEDO JB, 2001, FRAGILITY INT FINANC, P25
+   DEMACEDO JB, 2001, SHORT TERM CAPITAL F, P253
+   DEMIRGUCKUNT A, 1997, 106 IMF, P34
+   DIAZALEJANDRO C, 1985, J DEV ECON, V91, P401
+   Dooley M.P., 2005, 11771 NBER
+   DOWLING M, 2000, 123 MELB U DEP EC, P54
+   EICHENGREEN B, 1995, ECON J, V105, P162, DOI 10.2307/2235326
+   Eichengreen Barry., 1996, NEW TRANSATLANTIC EC
+   ENGLE RF, 1987, ECONOMETRICA, V55, P391, DOI 10.2307/1913242
+   ENGLE RF, 1982, ECONOMETRICA, V50, P987, DOI 10.2307/1912773
+   FERIDUN M, 2007, DOGUS U DERGISI, V8, P28
+   GIRTON L, 1977, AM ECON REV, V67, P537
+   GOLDBERG L, 2006, NBER SUMM I JUL
+   INCLAN C, 1994, J AM STAT ASSOC, V89, P913, DOI 10.2307/2290916
+   Kaminsky GL, 1999, AM ECON REV, V89, P473, DOI 10.1257/aer.89.3.473
+   KOURI P, 1978, BROOKINGS PAPERS EC
+   KRUGMAN P, 1981, INTERDEPENDENCE FLEX
+   Lanoie P, 1996, APPL ECON, V28, P241, DOI 10.1080/000368496328876
+   Li J., 2006, MEASURING CURRENCY C
+   Mishkin FS, 1999, J INT MONEY FINANC, V18, P709, DOI 10.1016/S0261-5606(99)00020-0
+   PEREIRA LB, 2005, THESIS U NOVA LISBOA
+   PEREIRA LB, 2006, 483 FEUNL
+   SCHULER K, 2007, MODERN MONETARY SYST
+   SPOLANDER M, 1999, BANK FINLAND STUDI E, V17
+   Tim BOLLERSLEV., 1992, ECONOMET REV, V11, P143, DOI [10.1080/07474939208800229, DOI 10.1080/07474939208800229]
+   Veyrune R., 2007, 0734 IMF
+   WEBER R, 2005, 16 BCL
+   WEYMARK DN, 1995, J INT ECON, V39, P273, DOI 10.1016/0022-1996(95)01389-4
+   Weymark DN, 1998, OXFORD ECON PAP, V50, P106, DOI 10.1093/oxfordjournals.oep.a028632
+NR 44
+TC 6
+Z9 6
+U1 0
+U2 6
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0923-7992
+EI 1573-708X
+J9 OPEN ECON REV
+JI Open Econ. Rev.
+PD NOV
+PY 2009
+VL 20
+IS 5
+BP 645
+EP 682
+DI 10.1007/s11079-008-9087-3
+PG 38
+WC Economics
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA 504WT
+UT WOS:000270649400004
+DA 2024-02-25
+ER
+
+PT C
+AU DAVANNE, O
+   VIJAYRAGHAVAN, V
+   BALTENSPERGER, E
+AF DAVANNE, O
+   VIJAYRAGHAVAN, V
+   BALTENSPERGER, E
+BE Baltensperger, E
+   Sinn, HW
+TI THE CREDIBILITY OF CENTRAL BANKS IN CONTROLLING INFLATION AND THE EFFECT
+   ON EXCHANGE-RATE VOLATILITY, THEORY AND EVIDENCE
+SO EXCHANGE-RATE REGIMES AND CURRENCY UNIONS
+LA English
+DT Proceedings Paper
+CT CONF ON EXCHANGE-RATE REGIMES AND CURRENCY UNIONS
+CY FEB, 1990
+CL FRANKFURT, GERMANY
+SP CONFEDERAT EUROPEAN ECON ASSOC, DEUT BUNDESBANK, BHF BANK, DEUT BANK
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ST MARTINS PRESS INC
+PI NEW YORK
+PA NEW YORK
+BN 0-312-08101-4
+PY 1992
+BP 159
+EP 180
+PG 22
+WC Economics; International Relations
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Business & Economics; International Relations
+GA BY28T
+UT WOS:A1992BY28T00008
+DA 2024-02-25
+ER
+
+PT J
+AU Gayaker, S
+   Agaslan, E
+   Alkan, B
+   Çiçek, S
+AF Gayaker, Savas
+   Agaslan, Erkan
+   Alkan, Buket
+   Cicek, Serkan
+TI The deterioration in credibility, destabilization of exchange rate and
+   the rise in exchange rate pass-through in Turkey
+SO INTERNATIONAL REVIEW OF ECONOMICS & FINANCE
+LA English
+DT Article; Early Access
+DE Exchange rate pass-through; Threshold regression method; Narrowing
+   window analysis; The Turkish economy
+ID MONETARY-POLICY; INFLATION-EXPECTATIONS; ENVIRONMENT; PRICES; MODEL
+AB The early literature on inflation targeting (IT) regime argues that adopting an IT regime in itself reduces the exchange rate pass-through (ERPT). The basic logic behind this argument is that pursuing a credible and independent monetary policy will help to anchor the inflation expecta-tions and stabilize the exchange rate volatility. In this study, we investigate whether the ERPT has increased in the last decade in Turkey where the credibility of the Central Bank of the Republic of Turkey (CBRT) has deteriorated and the exchange rate uncertainty has increased due to the weakening of commitment to inflation after political pressures although the IT regime has been implementing. Employing the Phillips curve model and then applying a narrowing window analysis, we have found that the ERPT coefficient increased as the beginning of the sample ap-proaches towards the last observation, especially since 2011. To search for the reason behind this increase, we additionally employed a threshold regression method following the work of Murase (2013) which allows both possibility of non-linearity in the ERPT relationship and exogenously adding the threshold variable to the model. When the gap between inflation expectations and the inflation forecasts grows, then the credibility is considered to decrease and we found that the ERPT gets higher if the gap exceeds a certain threshold. Similarly, we have found evidence supporting that the ERPT coefficient was higher when the exchange rate uncertainty exceeded a certain threshold.
+C1 [Gayaker, Savas] Ankara Haci Bayram Veli Univ, Dept Econometr, Ankara, Turkey.
+   [Agaslan, Erkan] Kutahya Dumlupinar Univ, Dept Econometr, Merkez, Kutahya, Turkey.
+   [Alkan, Buket] Fenerbahce Univ, Dept Int Finance & Banking, Istanbul, Turkey.
+   [Cicek, Serkan] Mugla Sitki Kocman Univ, Dept Econ & Finance, TR-48300 Fethiye, Mugla, Turkey.
+C3 Ankara Haci Bayram Veli University; Dumlupinar University; Fenerbahce
+   University; Mugla Sitki Kocman University
+RP Alkan, B (corresponding author), Fenerbahce Univ, Dept Int Finance & Banking, Istanbul, Turkey.
+EM savas.gayaker@hbv.edu.tr; erkan.agaslan@dpu.edu.tr;
+   buket.alkan@fbu.edu.tr; serkan.cicek@mu.edu.tr
+RI Gayaker, Savas/GXA-0052-2022; ALKAN, Buket/AAU-7653-2021; ÇİÇEK,
+   SERKAN/A-4217-2018; Ağaslan, Erkan/HDN-5472-2022
+OI ALKAN, Buket/0000-0002-0031-9666; Ağaslan, Erkan/0000-0001-8118-7222;
+   CICEK, SERKAN/0000-0002-6384-4476
+CR Ahmad S, 2016, J MACROECON, V48, P283, DOI 10.1016/j.jmacro.2016.04.005
+   Aleem A, 2014, RES INT BUS FINANC, V30, P24, DOI 10.1016/j.ribaf.2013.05.001
+   Aleem A, 2014, ECON MODEL, V43, P21, DOI 10.1016/j.econmod.2014.06.020
+   Arbatli E., 2003, CENT BANK REV, V3, P85
+   Arslaner F., 2014, RELATIONSHIP INFLATI
+   Baser S., 2013, INFLATION DYNAMICS T
+   Baskaya YS, 2012, CENT BANK REV, V12, P1
+   Blanchard O., 2004, NBER WORKING PAPER, P46
+   Bomfim AN, 2000, J MONEY CREDIT BANK, V32, P707, DOI 10.2307/2601179
+   Brooks C, 1997, J FORECASTING, V16, P125, DOI 10.1002/(SICI)1099-131X(199703)16:2<125::AID-FOR648>3.0.CO;2-T
+   Capistrán C, 2010, J MONEY CREDIT BANK, V42, P113, DOI 10.1111/j.1538-4616.2009.00280.x
+   Catik A. N., 2011, INT J STAT EC, V8, P21
+   Çatik AN, 2016, PANOECONOMICUS, V63, P563, DOI 10.2298/PAN140307005C
+   CBRT, 2016, 20161 CBRT, V3, P34
+   Cecchetti S., 2002, Federal Reserve Bank of St. Louis Review, V84, P99
+   CHAN KS, 1991, J ROY STAT SOC B MET, V53, P691
+   Chappell D, 1996, J FORECASTING, V15, P155, DOI 10.1002/(SICI)1099-131X(199604)15:3<155::AID-FOR616>3.3.CO;2-Q
+   Choudhri EU, 2006, J INT MONEY FINANC, V25, P614, DOI 10.1016/j.jimonfin.2005.11.009
+   Çiçek S, 2014, CENT BANK REV, V14, P15
+   Çiçek S, 2013, IKTISAT ISLET FINANS, V28, P43, DOI 10.3848/iif.2013.333.3840
+   Çiçek S, 2011, IKTISAT ISLET FINANS, V26, P37, DOI 10.3848/iif.2011.304.3044
+   Ciftci M., 2017, ASIAN J EC MODELLING, V6, P8
+   Clarida R, 1999, J ECON LIT, V37, P1661, DOI 10.1257/jel.37.4.1661
+   CUKIERMAN A, 1986, ECONOMETRICA, V54, P1099, DOI 10.2307/1912324
+   de Mendonça HF, 2009, ECON MODEL, V26, P1228, DOI 10.1016/j.econmod.2009.05.010
+   de Mendonça H, 2007, APPL ECON, V39, P2599, DOI 10.1080/00036840600707324
+   de Mendonça HF, 2018, J POLICY MODEL, V40, P1165, DOI 10.1016/j.jpolmod.2018.06.001
+   de Mendonça HF, 2017, INT REV ECON FINANC, V50, P196, DOI 10.1016/j.iref.2017.03.027
+   De Mendonça HF, 2015, OPEN ECON REV, V26, P787, DOI 10.1007/s11079-014-9339-3
+   Dedeoglua D., 2014, AFRO EURASIAN STUD, V3, P26
+   Demiralp S, 2019, TURK STUD, V20, P49, DOI 10.1080/14683849.2018.1505512
+   Devereux MB, 2010, J INT MONEY FINANC, V29, P181, DOI 10.1016/j.jimonfin.2008.12.009
+   Dogan M. K., 2014, EURASIAN J BUSINESS, V7, P71
+   Dovern J, 2012, REV ECON STAT, V94, P1081, DOI 10.1162/REST_a_00207
+   Edwards S, 2006, RELATIONSHIP EXCHANG
+   Engle C., 2002, NBER MACROECONOMICS
+   Estrella A, 2003, REV ECON STAT, V85, P94, DOI 10.1162/003465303762687730
+   Favero C., 2004, W10390 NBER
+   Gagnon JE, 2004, INT J FINANC ECON, V9, P315, DOI 10.1002/ijfe.253
+   Galariotis E, 2018, J BANK FINANC, V86, P1, DOI 10.1016/j.jbankfin.2017.08.014
+   Galí J, 2005, REV ECON STUD, V72, P707, DOI 10.1111/j.1467-937X.2005.00349.x
+   Gerlach S, 2013, MANCH SCH, V81, P16, DOI 10.1111/manc.12021
+   Gulsen E., 2009, EXCHANGE RATE PASS T
+   Gurkaynak R. S., 2015, BILGESEL YAYINCILIK, V30, P09
+   Henry OT, 2001, ECON REC, V77, P160, DOI 10.1111/1475-4932.00011
+   Kara AH, 2013, ATLANTIC ECON J, V41, P51, DOI 10.1007/s11293-012-9358-7
+   Kara H., 2017, CBT RES NOTES EC
+   Kara H., 2005, EXCHANGE RATE PASS T
+   Kara H, 2012, IKTISAT ISLET FINANS, V27, P9, DOI 10.3848/iif.2012.317.3396
+   Kara H, 2008, EMERG MARK FINANC TR, V44, P52, DOI 10.2753/REE1540-496X440604
+   Karahan O., 2017, FINANCIAL ASSETS INV, V8, P37, DOI [10.5817/FAI2017-2-3, DOI 10.5817/FAI2017-2-3]
+   Khemiri R., 2012, EC E J, P1
+   KRAGER H, 1993, J INT MONEY FINANC, V12, P195, DOI 10.1016/0261-5606(93)90024-6
+   Lopez-Villavicencio A., 2016, EXCHANGE RATE PASS T
+   Mihaljek D., 2008, EXCHANGE RATE PASS T
+   Montes GC, 2012, ECON MODEL, V29, P1666, DOI 10.1016/j.econmod.2012.05.027
+   Murase K, 2013, JPN WORLD ECON, V25-26, P80, DOI 10.1016/j.japwor.2013.01.006
+   Ozmen M.U, 2017, 08 CBRT
+   PEEL DA, 1994, WELTWIRTSCH ARCH, V130, P391, DOI 10.1007/BF02707716
+   Rudd J, 2007, J MONEY CREDIT BANK, V39, P155, DOI 10.1111/j.1538-4616.2007.00019.x
+   Salle I, 2013, ECON MODEL, V34, P114, DOI 10.1016/j.econmod.2013.01.031
+   Saygili H, 2020, WORLD ECON, V43, P2007, DOI 10.1111/twec.12925
+   Sen Dogan B, 2013, EMERG MARK FINANC TR, V49, P35, DOI 10.2753/REE1540-496X490303
+   Svensson Lars, 2011, FEDERAL RESERVE BANK, P35
+   Takhtamanova YF, 2010, J MACROECON, V32, P1118, DOI 10.1016/j.jmacro.2010.04.004
+   Taylor JB, 2000, EUR ECON REV, V44, P1389, DOI 10.1016/S0014-2921(00)00037-4
+   Tong H., 1990, NONLINEAR TIME SERIE
+   Volkan A., 2007, BUSINESS REV, V8, P150
+   Vonessen Benjamin, 2020, ECB Occasional Paper No. 2020248
+   Yazgan ME, 2005, STUD NONLINEAR DYN E, V9
+   Yesilyurt F, 2014, ANN REGIONAL SCI, V52, P1, DOI 10.1007/s00168-013-0570-4
+NR 72
+TC 4
+Z9 4
+U1 2
+U2 11
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 1059-0560
+EI 1873-8036
+J9 INT REV ECON FINANC
+JI Int. Rev. Econ. Financ.
+PD 2021 NOV
+PY 2021
+VL 76
+BP 571
+EP 587
+DI 10.1016/j.iref.2021.07.004
+EA JUL 2021
+PG 17
+WC Business, Finance; Economics
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA WQ1KD
+UT WOS:000713579500009
+DA 2024-02-25
+ER
+
+PT J
+AU Alla, Z
+   Espinoza, RA
+   Ghosh, AR
+AF Alla, Zineddine
+   Espinoza, Raphael A.
+   Ghosh, Atish R.
+TI FX Intervention in the New Keynesian Model
+SO JOURNAL OF MONEY CREDIT AND BANKING
+LA English
+DT Article; Early Access
+DE central bank reserves; capital flows; equilibrium determinacy;
+   open-economy New Keynesian Model; portfolio balance model; speculative
+   attack
+ID FOREIGN-EXCHANGE INTERVENTION; MONETARY-POLICY; BUSINESS CYCLES; CAPITAL
+   FLOWS; BALANCE; MARKET; PAYMENTS
+AB We develop an open-economy New Keynesian Model with foreign exchange (FX) intervention in the presence of a financial accelerator and shocks to risk appetite in international capital markets. We obtain closed-form solutions for optimal monetary and FX intervention policies assuming the central bank cannot commit to future policies, and we compare the solution to that under policy commitment. We show how FX intervention can help reduce the volatility of the exchange rate, of inflation, and of the output gap, thus mitigating welfare losses associated with shocks in the international capital markets. We also show that, when the financial accelerator is strong, there is a risk of indeterminacy (self-fulfilling currency and inflation movements) although FX intervention can reduce this risk and thus reinforce the credibility of the inflation targeting regime. Model simulations match well the impact of a VIX shock obtained by local projections on a panel of inflation targeting emerging markets.
+C1 [Alla, Zineddine] Sci Po, Paris, France.
+   [Espinoza, Raphael A.; Ghosh, Atish R.] Int Monetary Fund, Washington, DC 20431 USA.
+C3 Institut d'Etudes Politiques Paris (Sciences Po); International Monetary
+   Fund
+RP Alla, Z (corresponding author), Sci Po, Paris, France.
+EM zineddine.alla@gmail.com; respinoza@imf.org; aghosh@imf.org
+CR Aghion P, 2000, EUR ECON REV, V44, P728, DOI 10.1016/S0014-2921(99)00053-7
+   Aguiar M., 2004, Emerging Market Business Cycles
+   Alla Zineddine, 2016, 1658 IMF
+   [Anonymous], 2012, NBER WORKING PAPERS
+   BACKUS DK, 1989, J MONETARY ECON, V23, P359, DOI 10.1016/0304-3932(89)90038-X
+   Basu SS, 2018, IMF ECON REV, V66, P333, DOI 10.1057/s41308-018-0055-7
+   Blanchard O, 2005, BROOKINGS PAP ECO AC, P1
+   Blanchard O, 2016, AM ECON REV, V106, P565, DOI 10.1257/aer.p20161012
+   Boz E, 2011, J MONETARY ECON, V58, P616, DOI 10.1016/j.jmoneco.2011.11.003
+   Branson WH., 1985, Handbook of International Economics, V2, P749, DOI [10.1016/S1573-4404(85)02006-8, DOI 10.1016/S1573-4404(85)02006-8]
+   Calvo GA, 2002, Q J ECON, V117, P379, DOI 10.1162/003355302753650274
+   Cavallino P, 2019, AM ECON J-MACROECON, V11, P127, DOI 10.1257/mac.20160065
+   Clarida Richard, 1999, J ECON LIT, V37, P3
+   COLE HL, 1991, J MONETARY ECON, V28, P3, DOI 10.1016/0304-3932(91)90023-H
+   Cúrdia V, 2011, J MONETARY ECON, V58, P54, DOI 10.1016/j.jmoneco.2010.09.011
+   De Loecker J, 2012, AM ECON REV, V102, P2437, DOI 10.1257/aer.102.6.2437
+   Disyatat P, 2007, J INT MONEY FINANC, V26, P383, DOI 10.1016/j.jimonfin.2007.01.001
+   Dominguez Kathryn, 2005, AM ECON REV, V83, P1356
+   Dominguez KME, 2013, J MONEY CREDIT BANK, V45, P867, DOI 10.1111/jmcb.12028
+   Farhi E, 2014, IMF ECON REV, V62, P569, DOI 10.1057/imfer.2014.25
+   Fratzscher M, 2019, AM ECON J-MACROECON, V11, P132, DOI 10.1257/mac.20150317
+   Gabaix X, 2015, Q J ECON, V130, P1369, DOI 10.1093/qje/qjv016
+   Galí J, 2005, REV ECON STUD, V72, P707, DOI 10.1111/j.1467-937X.2005.00349.x
+   Gali J, 2008, MONETARY POLICY, INFLATION, AND THE BUSINESS CYCLE: AN INTRODUCTION TO THE NEW KEYNESIAN FRAMEWORK, P1
+   Galí J, 2008, J INT ECON, V76, P116, DOI 10.1016/j.jinteco.2008.02.007
+   Ghosh A., 2017, IMF Working Paper 17/69
+   GHOSH AR, 1992, J INT ECON, V32, P201, DOI 10.1016/0022-1996(92)90017-E
+   Ghosh AR, 2016, J INT MONEY FINANC, V60, P172, DOI 10.1016/j.jimonfin.2015.03.005
+   IMF, 2019, RIS CORP MARK POW IT
+   Itskhoki Oleg, 2017, NBER WORKING PAPER
+   Klenow P.J., 2010, Handbook of Monetary Economics, V3, P231, DOI [10.1016/B978-0-444-53238-1.00006-5, DOI 10.1016/B978-0-444-53238-1.00006-5]
+   KOURI PJK, 1976, SCAND J ECON, V78, P280, DOI 10.2307/3439930
+   Krugman P, 1999, INT TAX PUBLIC FINAN, V6, P459, DOI 10.1023/A:1008741113074
+   Kumhof M, 2010, J ECON DYN CONTROL, V34, P1403, DOI 10.1016/j.jedc.2010.04.005
+   MENDOZA EG, 1991, AM ECON REV, V81, P797
+   Mendoza EG, 2010, AM ECON REV, V100, P1941, DOI 10.1257/aer.100.5.1941
+   Menkhoff L, 2013, WORLD ECON, V36, P1187, DOI 10.1111/twec.12027
+   Mishkin Frederic S., 2007, TECHNICAL REPORT
+   OBSTFELD M, 1986, AM ECON REV, V76, P72
+   ROGOFF K, 1985, J INT ECON, V18, P199, DOI 10.1016/0022-1996(85)90052-2
+   Sarno L, 2001, J ECON LIT, V39, P839, DOI 10.1257/jel.39.3.839
+   Schmitt-Grohé S, 2003, J INT ECON, V61, P163, DOI 10.1016/S0022-1996(02)00056-9
+   Surico P, 2008, MACROECON DYN, V12, P724, DOI 10.1017/S1365100508070338
+   Woodford M., 2012, 17967 NBER
+   Woodford Michael, 2003, INTEREST PRICES FDN
+NR 45
+TC 5
+Z9 5
+U1 1
+U2 11
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-2879
+EI 1538-4616
+J9 J MONEY CREDIT BANK
+JI J. Money Credit Bank.
+PD 2020 OCT
+PY 2020
+VL 52
+IS 7
+BP 1755
+EP 1791
+DI 10.1111/jmcb.12683
+EA DEC 2019
+PG 37
+WC Business, Finance; Economics
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA OO7SI
+UT WOS:000504538500001
+OA Green Published
+DA 2024-02-25
+ER
+
+PT J
+AU Bruna, K
+   Van Tran, Q
+AF Bruna, Karel
+   Van Tran, Quang
+TI Inflation Targeting and Variability of Money Market Interest Rates Under
+   a Zero Lower Bound
+SO FINANCE A UVER-CZECH JOURNAL OF ECONOMICS AND FINANCE
+LA English
+DT Article
+DE money market interest rates; volatility; inflation targeting; zero lower
+   bound; Bayesian VAR; Historical decomposition
+ID MONETARY-POLICY
+AB The paper presents a formal framework of money market interest rates variability under a zero lower bound in a monetary policy strategy of inflation targeting. The potential factors influencing the variability of money market interest rates are considered within a near zero level of main policy rate variability. At the same time, model optimal main policy rate shows significant volatility due to changes in the structural characteristics of economy facing deep economic and financial shocks, changing perception of inflation risks, central bank's weakened credibility and uncertainty about the efficient transmission of monetary measures. The money market interest rates are modeled in the framework of VAR model with exogenous variables using the example of the Czech economy for a period 2000-2016. The model is estimated by Bayesian method and its structural form is obtained through sign restriction. The repo rate and money market interest rates are decomposed into a series of cumulative structural shocks of each endogenous component in the model. The results show that global financial crisis and the exchange rate alternative monetary policy measures are two main sources of endogenous variables' shocks for interest rates which confirm high importance of net export, banking loans and investment for the dynamics of an open economy.
+C1 [Bruna, Karel; Van Tran, Quang] Univ Econ, Dept Monetary Theory & Policy, Prague, Czech Republic.
+C3 Prague University of Economics & Business
+RP Bruna, K (corresponding author), Univ Econ, Dept Monetary Theory & Policy, Prague, Czech Republic.
+EM bruna@vse.cz; tran@vse.cz
+RI Bruna, Karel/AAD-9178-2020
+OI Bruna, Karel/0000-0003-3690-1364
+FU Grant Agency of the Czech Republic [18-12340S]; University of Economics,
+   Prague [IP 100040]
+FX This paper is supported by the Grant Agency of the Czech Republic no.
+   18-12340S and by the University of Economics, Prague as a part of
+   Institutional Research Support no. IP 100040.
+CR [Anonymous], FINANCE EC DISCUSSIO
+   [Anonymous], 148 IGIER U BOCC
+   [Anonymous], 85 BANK CAN
+   [Anonymous], 2015, APPL BAYESIAN ECONOM
+   Bartolini L, 2002, J MONEY CREDIT BANK, V34, P137, DOI 10.1353/mcb.2002.0025
+   Canova F, 2002, J MONETARY ECON, V49, P1131, DOI 10.1016/S0304-3932(02)00145-9
+   Canova F., 2007, METHODS APPL MACROEC, DOI 10.2307/j.ctvcm4hrv
+   Faust J, 1998, CARN ROCH CONF SERIE, V49, P207, DOI 10.1016/S0167-2231(99)00009-3
+   GOODMAN LA, 1960, J AM STAT ASSOC, V55, P708, DOI 10.2307/2281592
+   Kadiyala KR, 1997, J APPL ECONOM, V12, P99
+   Luetkepohl H., 2005, New introduction to multiple time series analysis
+   Rudebusch GD, 2002, J MONETARY ECON, V49, P1161, DOI 10.1016/S0304-3932(02)00149-6
+   Rudebusch GD, 2001, REV ECON STAT, V83, P203, DOI 10.1162/00346530151143752
+   Sack B, 2000, J MONETARY ECON, V46, P229, DOI 10.1016/S0304-3932(00)00019-2
+   Uhlig H, 2005, J MONETARY ECON, V52, P381, DOI 10.1016/j.jmoneco.2004.05.007
+NR 15
+TC 2
+Z9 2
+U1 0
+U2 4
+PU CHARLES UNIV-PRAGUE
+PI PRAGUE 2
+PA C/O DATAKONEKT S R O, VINOHRADSKA 49, PO BOX 6, PRAGUE 2 120 00, CZECH
+   REPUBLIC
+SN 0015-1920
+J9 FINANC UVER
+JI Financ. Uver
+PY 2018
+VL 68
+IS 6
+BP 519
+EP 536
+PG 18
+WC Business, Finance
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA HG1CJ
+UT WOS:000454687400003
+DA 2024-02-25
+ER
+
+PT C
+AU Raymond, R
+AF Raymond, R
+BE Bruni, F
+   Fair, DE
+   OBrien, R
+TI Central banking and market volatility
+SO RISK MANAGEMENT IN VOLATILE FINANCIAL MARKETS
+SE FINANCIAL AND MONETARY POLICY STUDIES
+LA English
+DT Proceedings Paper
+CT 19th SUERF Colloquium - Risk Management in Volatile Financial Markets
+CY OCT, 1995
+CL SBC TRAINING CTR, THUN, SWITZERLAND
+SP Soc Universitaire Europeenne Rech Financieres, European Commiss, Bank Int Settlements, Swiss Natl Bank, Swiss Bank Corp, Credit Suisse, Fils Dreyfus & Cie
+HO SBC TRAINING CTR
+AB As a consequence of the globalisation of capital markets of all kinds, monetary policy has had to become more market-oriented, Market expectations play an important role and entail increasing volatility on interest rates and exchange rates. The latter may remain misaligned for a while compared to current fundamental indicators; although they are influenced by the latter, expectations reflect changing medium-term views of market operators. This is why central banks have to build up credibility, take a forward-looking approach and apply a careful communications policy, while they cannot rely as much as before on intermediate targets.
+   At the same time, spillover effects of decisions made at a national level or of shocks have brought international co-operation to the fore. Such co-operation should not apply exclusively to monetary policy, but should also include fiscal policy, a sensitive issue for market expectations. At a regional level, there is more than a good case for establishing tight cooperation. In particular, the adoption of a single currency is a normal feature of a single multinational market. This was the vision of Robert Marjolin in as early as 1962. It was elaborated in subsequent reports, leading to the Maastricht Treaty.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU KLUWER ACADEMIC PUBL
+PI DORDRECHT
+PA PO BOX 17, 3300 AA DORDRECHT, NETHERLANDS
+BN 0-7923-4053-1
+J9 FINAN MON P
+PY 1996
+VL 32
+BP 361
+EP +
+PG 12
+WC Business, Finance
+WE Conference Proceedings Citation Index - Social Science &amp; Humanities (CPCI-SSH)
+SC Business & Economics
+GA BH26M
+UT WOS:A1996BH26M00017
+DA 2024-02-25
+ER
+
+PT J
+AU Strieborny, M
+AF Strieborny, M
+TI Independence of a central bank and position of the European system of
+   central banks
+SO EKONOMICKY CASOPIS
+LA Slovak
+DT Article
+AB In the sixties of 20(th) century, monetary policy was still considered as an integral part of demand oriented economic policy, the objective of which was to achieve full employment and gross national product at the level of potential product by optimal combination of fiscal and monetary policy instruments. In that context, moderate inflation was perceived as a legitimate means to achieve mentioned goals. But supply shocks and follow-up inflation advancement in the seventies led to the. understanding of the price stability achievement and sustainability as a top-priority task of monetary policy. This change. in the economic theory main stream came up at the same time with convincing arguments in favor of an independent central bank. In its monetary policy, bank of circulation independent from politicians, electors or media has the best conditions for preferring the long-term objective of price stability to the short-term economic growth and employment increase. On the contrary, politically dependent central bank, would. be,scarcely able to face the possible pressure of the government trying to bring on a favorable political economic cycle and therefore intentions declared in the anti-inflation policy wouldn't be perceived as credible by economic entities. In the effort to ensure the credibility of anti-inflation policy, it is also possible to bind monetary policy by standing rules as an alternative to an autonomous central bank. But this approach did not acquit well either.
+   The arguments against politically, independent central bank go out particularly of. the statement that it is incompatible with elementary, democratic principles when the group of non-elected technocrats disposes of large competence and, act without direct, control carried out by the parliament. This objection can be disproved-besides the existing precedent in the form of independent courts-by a mention of indirect legitimacy of a central bank. In a final consequence, it is exactly democratically elected politicians who make the decisions about a degree of the central bank political autonomy, determine monetary policy objectives and they also name senior officials of a central bank; Moreover, various empirical studies confirm the expediency of an independent central. bank for economic development of the country. The states with an autonomous central bank show besides the lower inflation rate also low unemployment, and the rate or volatility of ecomomic growth is not negatively influenced by the independence of a central bank as well.
+   Following these arguments, the question of what degree is the independence of their own central bank ensured to, thus becomes very important for the citizens of present and future Member States of the European Economic and Monetary Union. For the purpose of the analysis focused on a degree of autonomy of the European System of Central Banks (ESCB) and the European Central Bank (ECB), we usually distinguish between functional, institutional, personal and financial independence.
+   Functional independence implies the question whether a central bank has adequate space for autonomous execution of monetary policy when trying to achieve certain objectives. In this point, it is very important that the ESCB can decide autonomously about a suitable monetary policy strategy. Very significant is also the fact that neither the ECB nor individual national banks are no longer allowed to provide credit to public sector organs and institutions. Potential limitation of functional independence represents exchange-rate policy, which falls within the cognizance of the Council of the European Union. In its execution of exchange-rate policy, the Council of the EU is indeed obliged to respect the primary objective of price stability as well as the independence of the ESCB. In the case of the Exchange Rate Mechanism II (ERM II), even the competence beyond the frame of the Treaty on European Union was conceded to the ESCB.
+   Institutional independence is being connected with A question of the rate in which other bodies and institutions (government or parliament) have an opportunity to influence a decision-making process in the competent central bank gremium. In this context, when exercising the powers and carrying out the tasks and duties conferred upon them by the EU Treaty and the Statute of the ESCB, neither the ECB, nor a national central bank, nor any member of their decision-making bodies may seek or take instructions from Community institutions or bodies, from any government of a Member State or from any other body. The Community institutions and bodies and the governments of the Member States undertake to respect Us principle and not to seek to influence the members of the decision-making bodies of the ECB or of the national central banks in the performance of their tasks. None of the EU political representatives or the individual Member State representatives can even dispose of voting right in any decision-making body of the ESCB. The ECB is exclusively the subject to the European Court of Justice's juridical control as well as the European Court of Auditors' and independent external auditors' control.
+   In the view of ensuring personal independence of the ESCB, it has to be evaluated positively in particular that the term of office for the ECB Executive Board Members is limited to a maximum of eight years and shall not be renewable. Shorter five years term of office for the presidents-of the national central banks (governors), even possibly renewable, represents kind of a risk for the independent performing of the tasks related to their function.
+   Financial independence is achieved when a central bank disposes of an adequate amount of financial resources necessary for staying in a position to fulfil entrusted duties. Financial independence violation could result in a menace of either functional or institutional independence of a central bank. In the case of the ESCB, financial independence is guaranteed by the fact that the Budget of the ECB is separated from the Budget of the EU, as well as by the fact that not national governments, not the European Union, but the national central banks have provided basic capital of the ECB.
+   In conclusion, it has to be underlined that there is a difference between the formal and the real independence of a central bank. Finally, general public attitude towards inflation risk determinates whether monetary policy oriented on the maintenance of price stability is successful or not. However, the European Economic and Monetary Union exists, too short to give a final verdict considering the importance that the citizens of Euro-zone attribute to a stable currency.
+C1 Ekon Univ Bratislave, Obchodna Fak, Katedra Medzinarodneho Obchodu, Bratislava 85235 5, Slovakia.
+C3 University of Economics Bratislava
+RP Strieborny, M (corresponding author), Ekon Univ Bratislave, Obchodna Fak, Katedra Medzinarodneho Obchodu, Dolnozemska Cesta 1, Bratislava 85235 5, Slovakia.
+CR BARRO RJ, 1986, ECON J, P96
+   Blinder AlanS., 1999, CENTRAL BANKING THEO
+   CUKIERMAN A, 1994, EC J
+   *DTSCH BUND, 2001, MON JAN 2001
+   *DTSCH BUND, 2000, MON MARZ 2000
+   DUIJM B, 1998, Z WIRTSCHAFTSPOLITIK, V78, P661
+   *EUR WAHR, 1998, KONV
+   *EUR ZENTR, 2001, GELDP EZB
+   *EUR ZENTR, 2000, MON OKT 2000
+   *EUR ZENTR, 2001, JAHR 2000
+   *EUR ZENTR, 1999, MON JUL 1999
+   ISSING O, 1993, UNABHANGIGKEIT NOTEN
+   LIEBSCHER K, 1999, EUROPAISCHE ZENTRALB
+   OHR R, 1996, EUROPAISCHE INTEGRAT
+   OHR R, 2001, KOMPENDIUM EUROPAISC
+   PLEWKA H, 1999, EUROPAISCHE ZENTRALB
+   SCHIEMANN J, 1994, MAASTRICHT KONIGSWEG
+   THEURL T, 2001, KOMPENDIUM EUROPAISC
+   TIETMEYER H, 1992, EUROPAISCHE WIRTSCHA
+NR 19
+TC 0
+Z9 0
+U1 1
+U2 26
+PU INST ECONOMICS RESEARCH SAS & INST FORECASTING CSPS SAS
+PI BRATISLAVA
+PA SANCOVA 56, BRATISLAVA, SLOVAKIA
+SN 0013-3035
+J9 EKON CAS
+JI Ekon. Cas.
+PY 2003
+VL 51
+IS 2
+BP 119
+EP 136
+PG 18
+WC Economics
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA 672GT
+UT WOS:000182513400002
+DA 2024-02-25
+ER
+
+PT J
+AU Wessels, B
+AF Wessels, Buks
+TI Dollarisation as Economic Solution for the Zimbabwean Demise
+SO TYDSKRIF VIR GEESTESWETENSKAPPE
+LA Afrikaans
+DT Article
+DE Zimbabwe; economic reconstruction; dollarisation; hyperinflation;
+   central banking; monetary policy
+ID DOLLARIZATION
+AB Dollarisation as Economic Solution for the Zimbabwean Demise The Zimbabwean economic and political malaise has been going on for longer than a decade and has deteriorated unabated Runaway hyperinflation reaching unthinkable proportions, an almost hundred percent unemployment rate and a shattered currency with literally no external value or esteem characterise this demise. Fiscal profligacy funded by an ever increasing fiscal deficit has played its part in this socio-economic tragedy. This state of affairs would not have been possible if the Reserve Bank of Zimbabwe had fulfilled its role as protector of the nation currency. Sadly the Bank slavishly accommodated the government request for printing more money and did not render any sign of independence from government as a respected central bank should have done. As in many other cases of hyperinflation, this weakness provided the basis from which the evolving tragedy gained momentum. The gigantic proportions of the continuous socio-economic and political tragedy predict an even bleaker future for the country if not attended to in a decisive way.
+   No instant political or economic solution exists for this appalling situation, but economic restoration has to start with certain basic steps of economic reform. This paper suggests official dollarisation as an alternative exchange rate regime with which to clear up the economic disorder that currently characterises the economic scene. The paper explains the term "dollarisation", its features and the underlying rationale of the regime as a super-fixed exchange rate system for Zimbabwe. Thereafter the possible advantages and disadvantages that Zimbabwe can obtain from the system are highlighted, accompanied by a brief discussion on randisation as a possible alternative solution. Especially important among the advantages is the fact that dollarisation will help to restore the lost credibility of the Zimbabwean policy-makers since it will now be imported externally from an anchor country and its currency. This will not only substantially decrease the inflation and interest rates, but it will also contribute to promoting saving, investment, economic growth and employment. It will, furthermore, stabilise the dysfunctional Zimbabwean credit system, enhance long term lending contracts and correct the misallocation of resources caused by, hyperinflation.
+   These benefits must be balanced by certain costs of dollarisation, especially the loss of seigniorage income, the loss of monetary autonomy and national pride, as well as the loss of the lender-of-last-resort-function of the central bank. However, in the case of Zimbabwe these costs are found to be thoroughly overshadowed by the benefits derived from dollarisation. In addition, the Zimbabwean situation and the current stance of its economy actually fit the prerequisites for a country that should seriously contemplate dollarisation.
+   Although dollarisation is supported as a possible solution for Zimbabwe, randisation may also work but will have to be considered with care. South Africa is indeed the biggest trading partner of Zimbabwe and also has deep financial ties with the latter Nevertheless, the volatility in the exchange rate of the rand and the possibility of loan default on South African loans to Zimbabwe are risks in need of contemplation. Another but less credible policy alternative for Zimbabwe, is to adopt a currency board arrangement where the exchange rate of the Zimdollar is not only firmly fixed to the South African rand, but also fully (100 per cent) covered by rand reserves cis a back-up measure of credibility. Yet, under the current circumstances dollarisation presents itself as a more likely system with which to obtain rapid and trustworthy results.
+   Although dollarisation on its own will certainly help, it will not pose a "quick-fix" for the Zimbabwean demise. Dollarisation can not compensate for corruption, disruptions in the social structure and a lack of transparency in the political and economic system. Furthermore, it can not compensate for a lack of human prudence in decision-making, a lack of protection of property rights and the absence of a rule of law. The latter aspects require fundamental and credible reforms on the political and juridical front, without which no economic rescue package will have any success whatsoever
+C1 Univ Oranje Vrystaat, Dept Ekon, Bloemfontein, South Africa.
+C3 University of the Free State
+RP Wessels, B (corresponding author), Univ Oranje Vrystaat, Dept Ekon, Bloemfontein, South Africa.
+EM wesselgm@ufs.ac.za
+CR ACOSTA A, 2001, FALSE DILEMMA DOLLAR
+   ALESINA A, 2001, AEA PAPERS P, P381
+   [Anonymous], AM EC REV
+   [Anonymous], 2008, WORLD EC OUTL DAT
+   [Anonymous], DEP EC WORKING PAPER
+   ANTONOLFI G, 2000, FEDERAL RESERVE  NOV, P29
+   AXELSON M, 2002, DOLLARISATION EFFECT
+   BERG A, 2000, WP0050 IMF
+   BERGSTEN CF, 1999, DOLLARISATION EMERGI
+   BLOCH DS, 2003, LATIN AM LAW BUSINES, V11, P1
+   BOGETIC Z, 2000, CHALLENGE, V43
+   Business Day, 2009, BUSINESS DAY
+   Calvo GA, 2001, J MONEY CREDIT BANK, V33, P312, DOI 10.2307/2673902
+   CALVO GA, 1999, DOLLARISATION
+   *CIA, 2008, WORLD FACTB
+   COHEN BJ, 2000, C DOLL FED RES BANK
+   DORNBUSCH R, 2001, AM ECON REV, P238
+   Eichengreen B, 2001, J POLICY MODEL, V23, P267, DOI 10.1016/S0161-8938(01)00046-1
+   EMANUEL CJ, 2002, DOLLARISATION ECUADO
+   FONTAINE JA, 2000, CATO J, V20, P35
+   HANKE SH, 2008, DEV POLICY ANAL, V6, P1
+   HONDA J, 2006, WP8206 INT MON FUND
+   *IMF, 2009, IMF EX BOARD ART 4 C
+   Jameson KP, 2006, MONETARY INTEGRATION AND DOLLARIZATION: NO PANACEA, P276
+   Kenen P., 1969, MONETARY PROBLEMS IN
+   Levine R, 2001, J MONEY CREDIT BANK, V33, P339, DOI 10.2307/2673904
+   LEVYYEYATI E, 2003, ENDOGENEITY EX UNPUB
+   LEVYYEYATI EL, 2002, C DOLL EUR VIABL POL
+   MACK C, 2000, BASICS DOLLARISATION
+   PARSONS R, 2007, 2007 ESSA BIENN C IN
+   PARSONS R, 2002, 13 C INT EC HIST ASS
+   RODRIQUEZ AC, 2009, CHOOSING ASSESSING E
+   SALVATORE D, 2003, DOLLARISATION DEBATE
+   *SAPA AFP, 2009, ZIM UN SOARS 94
+   SCHULER K, 2002, C EUR DOLL FORDH U G
+   Schuler K., 1998, SO YOU WANT DOLLARIZ
+   *STERP, 2009, GETT ZIMB MOV AG
+   TOWERS M, 2004, SOCIOECONOMIC IMPLIC
+   *TRAD MAP, 2008, LIST IMP MARK PROD E
+   Vernengo M, 2006, MONETARY INTEGRATION AND DOLLARIZATION: NO PANACEA, P1
+   WESSEL GM, 2009, 7 WORLD ASS SUST DEV
+NR 41
+TC 0
+Z9 0
+U1 1
+U2 18
+PU SUID-AFRIKAANSE AKAD VIR WETENSKAP EN KUNS, SEKRETARIS
+PI PRETORIA
+PA P. O. BOX 538, PRETORIA, 00000, SOUTH AFRICA
+SN 0041-4751
+J9 TYDSKR GEESTESWET
+JI Tydskr. Geesteswet.
+PD MAR 10
+PY 2010
+VL 50
+IS 1
+BP 50
+EP 65
+PG 16
+WC Social Issues
+WE Social Science Citation Index (SSCI)
+SC Social Issues
+GA 571RX
+UT WOS:000275773800004
+DA 2024-02-25
+ER
+
+EF
